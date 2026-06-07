@@ -39,32 +39,7 @@
 
 ## Структура проекта
 
-Diploma_Project/
-│
-├── data/
-│   ├── raw/          # Исходные CSV-файлы Kaggle
-│   ├── processed/    # Очищенные и объединённые данные
-│
-├── notebooks/
-│   ├── 01_Data_Understanding.ipynb
-│   ├── 02_EDA.ipynb
-│   ├── 03_Feature_Engineering.ipynb
-│   ├── 04_Baseline_Model.ipynb
-│   ├── 05_Advanced_Models.ipynb
-│   ├── 06_Model_Interpretation.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── features.py
-│   ├── models.py
-│
-├── reports/
-│   ├── figures/      # Графики и визуализации
-│
-├── presentation/     # Материалы для защиты проекта
-│
-├── README.md
-└── requirements.txt
+\\\text Diploma_Project/ ├── data/ │ ├── raw/ # Исходные CSV-файлы Kaggle │ ├── processed/ # Очищенные и объединённые данные │ ├── notebooks/ │ ├── 01_Data_Understanding.ipynb │ ├── 02_EDA.ipynb │ ├── 03_Feature_Engineering.ipynb │ ├── 04_Baseline_Model.ipynb │ ├── 05_Advanced_Models.ipynb │ ├── 06_Model_Interpretation.ipynb │ ├── src/ │ ├── preprocessing.py │ ├── features.py │ ├── models.py │ ├── reports/ │ ├── figures/ # Графики и визуализации │ ├── presentation/ # Материалы для защиты проекта │ ├── README.md └── requirements.txt \\\
 
 
 ---
