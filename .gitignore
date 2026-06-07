@@ -1,0 +1,16 @@
+# Ignore all raw data
+data/*.csv
+data/raw/*
+data/processed/*
+
+# Ignore Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore large files
+*.zip
+*.7z
+*.rar
+
+# Ignore system files
+.DS_Store
+Thumbs.db
