@@ -66,20 +66,28 @@ Diploma_Project/
 ├── README.md
 └── requirements.txt
 
-
 ---
 
 ## Описание данных
 Проект использует **10 CSV‑файлов** из соревнования Kaggle, включая:
 
-- `application_train.csv` — основная таблица с целевой переменной  
-- `application_test.csv` — тестовый набор  
-- `bureau.csv`, `bureau_balance.csv` — данные кредитных бюро  
-- `previous_application.csv` — предыдущие заявки на кредит  
-- `POS_CASH_balance.csv` — история POS‑кредитов  
-- `credit_card_balance.csv` — поведение по кредитным картам  
-- `installments_payments.csv` — история платежей  
-- `HomeCredit_columns_description.csv` — описание признаков  
+| Таблица | Строк | Столбцов | Описание |
+|--------|-------|----------|----------|
+| `application_train` | 307 511 | 122 | Основная таблица с целевой переменной |
+| `application_test` | 48 744 | 121 | Тестовая выборка без TARGET |
+| `bureau` | 1 716 428 | 17 | Кредиты клиента в сторонних бюро |
+| `bureau_balance` | 27 299 925 | 3 | Помесячная история кредитов из bureau |
+| `previous_application` | 1 670 214 | 37 | История предыдущих кредитных заявок |
+| `POS_CASH_balance` | 10 001 358 | 8 | История POS‑кредитов |
+| `credit_card_balance` | 3 840 312 | 23 | История по кредитным картам |
+| `installments_payments` | 13 605 401 | 8 | История платежей по кредитам |
+| `HomeCredit_columns_description` | 219 | 4 | Описание всех признаков |
+| `sample_submission` | 48 744 | 2 | Формат отправки на Kaggle |
+
+## Схема связей между таблицами
+
+![Relations Diagram](reports/figures/relations_diagram.png)
+
 
 Данные включают **миллионы строк** в дополнительных таблицах и требуют масштабной агрегации и инженерии признаков.
 
