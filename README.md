@@ -38,8 +38,6 @@
 ---
 
 ## Структура проекта
-
-Diploma_Project/
 │
 <img src="reports/figures/project_structure_diagram_color.svg" width="800">
 
