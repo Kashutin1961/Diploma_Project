@@ -66,6 +66,9 @@ Diploma_Project/
 ├── README.md
 └── requirements.txt
 
+<img src="reports/figures/project_structure_diagram_color.svg" width="800">
+
+
 ---
 
 ## Описание данных

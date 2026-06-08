@@ -51,3 +51,5 @@ dependencies:
   - tzdata=2026b=he532380_0
   - pip:
       - graphviz==0.21
+      - plotly==5.22.0
+
