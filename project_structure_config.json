@@ -41,7 +41,8 @@
                 "sample10",
                 "sample20",
                 "full"
-            ]
+            ],
+            "active_variant": "full"
         },
         "stage2": {
             "suffix": "_eda",
@@ -66,7 +67,8 @@
             "variants": [
                 "eda_v1",
                 "eda_v2"
-            ]
+            ],
+            "active_variant": "eda_v1"
         },
         "stage3": {
             "suffix": "_baseline",
@@ -89,7 +91,8 @@
             "variants": [
                 "baseline_default",
                 "baseline_tuned"
-            ]
+            ],
+            "active_variant": "baseline_default"
         },
         "stage4": {
             "suffix": "_bivariate",
@@ -110,8 +113,9 @@
             "purpose": "Understand TARGET relationships",
             "description": "TARGET vs numeric/categorical",
             "variants": [
-                "biv_v1"
-            ]
+                "bivariate_v1"
+            ],
+            "active_variant": "bivariate_v1"
         },
         "stage5": {
             "suffix": "_multivariate",
@@ -132,7 +136,8 @@
             "description": "SHAP interactions, PDP",
             "variants": [
                 "multi_v1"
-            ]
+            ],
+            "active_variant": "multi_v1"
         },
         "stage6": {
             "suffix": "_features",
@@ -151,7 +156,8 @@
             "variants": [
                 "fe_basic",
                 "fe_full"
-            ]
+            ],
+            "active_variant": "fe_full"
         },
         "stage7": {
             "suffix": "_models",
@@ -175,7 +181,8 @@
                 "lgbm_v1",
                 "cat_v1",
                 "stack_v1"
-            ]
+            ],
+            "active_variant": "lgbm_v1"
         },
         "stage8": {
             "suffix": "_interpretation",
@@ -197,7 +204,8 @@
             "description": "SHAP, PDP, interactions",
             "variants": [
                 "interp_v1"
-            ]
+            ],
+            "active_variant": "interp_v1"
         },
         "stage9": {
             "suffix": "_inference",
@@ -222,7 +230,8 @@
             "variants": [
                 "sub_v1",
                 "sub_v2"
-            ]
+            ],
+            "active_variant": "sub_v1"
         }
     }
 }

@@ -1,0 +1,1575 @@
+2026-06-17 14:21:57,685 | INFO | Starting analysis
+2026-06-17 14:21:57,687 | INFO | Input folder: c:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\stage_outputs\stage5_multivariate\scatter_tiled
+2026-06-17 14:21:57,688 | INFO | Output folder: c:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 14:21:57,688 | INFO | Model: gpt-4o-mini
+2026-06-17 14:21:57,689 | INFO | Cache enabled: True
+2026-06-17 14:32:42,705 | INFO | Starting analysis
+2026-06-17 14:32:42,706 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\stage_outputs\stage5_multivariate\scatter_tiled
+2026-06-17 14:32:42,707 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 14:32:42,708 | INFO | Model: gpt-4o-mini
+2026-06-17 14:32:42,709 | INFO | Cache enabled: True
+2026-06-17 14:33:39,666 | INFO | Starting analysis
+2026-06-17 14:33:39,668 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 14:33:39,668 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 14:33:39,669 | INFO | Model: gpt-4o-mini
+2026-06-17 14:33:39,670 | INFO | Cache enabled: True
+2026-06-17 14:33:39,673 | INFO | Processing file: tiled_3.png
+2026-06-17 14:33:39,676 | INFO | Processing file: tiled_4.png
+2026-06-17 14:33:39,733 | ERROR | OCR failed: Numpy is not available
+2026-06-17 14:33:39,737 | ERROR | OCR failed: Numpy is not available
+2026-06-17 14:33:39,743 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 14:33:39,748 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 14:34:58,792 | INFO | Starting analysis
+2026-06-17 14:34:58,793 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 14:34:58,794 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 14:34:58,795 | INFO | Model: gpt-4o-mini
+2026-06-17 14:34:58,795 | INFO | Cache enabled: True
+2026-06-17 14:34:58,797 | INFO | Processing file: tiled_3.png
+2026-06-17 14:34:58,800 | INFO | Processing file: tiled_4.png
+2026-06-17 14:34:58,828 | ERROR | OCR failed: Numpy is not available
+2026-06-17 14:34:58,833 | ERROR | OCR failed: Numpy is not available
+2026-06-17 14:34:58,839 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 14:34:58,843 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 14:35:09,688 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-06-17 14:35:14,197 | INFO | Starting analysis
+2026-06-17 14:35:14,198 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 14:35:14,199 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 14:35:14,200 | INFO | Model: gpt-4o-mini
+2026-06-17 14:35:14,201 | INFO | Cache enabled: True
+2026-06-17 14:35:14,204 | INFO | Processing file: tiled_3.png
+2026-06-17 14:35:14,208 | INFO | Processing file: tiled_4.png
+2026-06-17 14:35:14,237 | ERROR | OCR failed: Numpy is not available
+2026-06-17 14:35:14,242 | ERROR | OCR failed: Numpy is not available
+2026-06-17 14:35:14,247 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 14:35:14,252 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 14:36:03,467 | INFO | Starting analysis
+2026-06-17 14:36:03,468 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 14:36:03,469 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 14:36:03,471 | INFO | Model: gpt-4o-mini
+2026-06-17 14:36:03,472 | INFO | Cache enabled: True
+2026-06-17 14:36:03,474 | INFO | Processing file: tiled_3.png
+2026-06-17 14:36:03,477 | INFO | Processing file: tiled_4.png
+2026-06-17 14:36:03,518 | ERROR | OCR failed: name 'np' is not defined
+2026-06-17 14:36:03,524 | ERROR | OCR failed: name 'np' is not defined
+2026-06-17 14:36:03,528 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 14:36:03,535 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 14:37:05,711 | INFO | Starting analysis
+2026-06-17 14:37:05,713 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 14:37:05,714 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 14:37:05,714 | INFO | Model: gpt-4o-mini
+2026-06-17 14:37:05,715 | INFO | Cache enabled: True
+2026-06-17 14:37:05,719 | INFO | Processing file: tiled_3.png
+2026-06-17 14:37:05,722 | INFO | Processing file: tiled_4.png
+2026-06-17 14:37:05,745 | ERROR | OCR failed: name 'np' is not defined
+2026-06-17 14:37:05,754 | ERROR | OCR failed: name 'np' is not defined
+2026-06-17 14:37:05,757 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 14:37:05,785 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 14:39:59,575 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-06-17 14:40:12,126 | INFO | Starting analysis
+2026-06-17 14:40:12,127 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 14:40:12,129 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 14:40:12,129 | INFO | Model: gpt-4o-mini
+2026-06-17 14:40:12,130 | INFO | Cache enabled: True
+2026-06-17 14:40:12,132 | INFO | Processing file: tiled_3.png
+2026-06-17 14:40:12,134 | INFO | Processing file: tiled_4.png
+2026-06-17 14:40:12,162 | ERROR | OCR failed: name 'np' is not defined
+2026-06-17 14:40:12,163 | ERROR | OCR failed: name 'np' is not defined
+2026-06-17 14:40:12,172 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 14:40:12,172 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 14:41:54,850 | INFO | Starting analysis
+2026-06-17 14:41:54,851 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 14:41:54,853 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 14:41:54,853 | INFO | Model: gpt-4o-mini
+2026-06-17 14:41:54,854 | INFO | Cache enabled: True
+2026-06-17 14:41:54,857 | INFO | Processing file: tiled_3.png
+2026-06-17 14:41:54,860 | INFO | Processing file: tiled_4.png
+2026-06-17 14:41:54,898 | ERROR | OCR failed: name 'np' is not defined
+2026-06-17 14:41:54,902 | ERROR | OCR failed: name 'np' is not defined
+2026-06-17 14:41:54,909 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 14:41:54,913 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:02:16,121 | INFO | Starting analysis
+2026-06-17 16:02:16,123 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:02:16,124 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:02:16,125 | INFO | Model: gpt-4o-mini
+2026-06-17 16:02:16,126 | INFO | Cache enabled: True
+2026-06-17 16:02:16,128 | INFO | Processing file: tiled_3.png
+2026-06-17 16:02:16,130 | INFO | Processing file: tiled_4.png
+2026-06-17 16:02:16,165 | ERROR | OCR failed: name 'np' is not defined
+2026-06-17 16:02:16,171 | ERROR | OCR failed: name 'np' is not defined
+2026-06-17 16:02:16,175 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:02:16,181 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:05:31,837 | INFO | Starting analysis
+2026-06-17 16:05:31,840 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:05:31,841 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:05:31,842 | INFO | Model: gpt-4o-mini
+2026-06-17 16:05:31,844 | INFO | Cache enabled: True
+2026-06-17 16:05:31,847 | INFO | Processing file: tiled_3.png
+2026-06-17 16:05:31,853 | INFO | Processing file: tiled_4.png
+2026-06-17 16:05:31,909 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:05:31,912 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:05:31,919 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:05:31,924 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:09:55,871 | INFO | Starting analysis
+2026-06-17 16:09:55,872 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:09:55,874 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:09:55,874 | INFO | Model: gpt-4o-mini
+2026-06-17 16:09:55,875 | INFO | Cache enabled: True
+2026-06-17 16:09:55,878 | INFO | Processing file: tiled_3.png
+2026-06-17 16:09:55,881 | INFO | Processing file: tiled_4.png
+2026-06-17 16:09:55,917 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:55,920 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:55,927 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:09:55,931 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:09:56,638 | ERROR | Error analyzing tiled_3_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,638 | ERROR | Error analyzing tiled_4_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,650 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,652 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,661 | INFO | [API CALL] Analyzing tiled_3_subplot_2_Unknown_Title
+2026-06-17 16:09:56,670 | ERROR | Error analyzing tiled_3_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,674 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,676 | INFO | [API CALL] Analyzing tiled_4_subplot_2_Unknown_Title
+2026-06-17 16:09:56,684 | INFO | [API CALL] Analyzing tiled_3_subplot_3_Unknown_Title
+2026-06-17 16:09:56,686 | ERROR | Error analyzing tiled_4_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,689 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,695 | ERROR | Error analyzing tiled_3_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,699 | INFO | [API CALL] Analyzing tiled_4_subplot_3_Unknown_Title
+2026-06-17 16:09:56,700 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,709 | INFO | [API CALL] Analyzing tiled_3_subplot_4_Unknown_Title
+2026-06-17 16:09:56,710 | ERROR | Error analyzing tiled_4_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,714 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,717 | ERROR | Error analyzing tiled_3_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,721 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,728 | INFO | [API CALL] Analyzing tiled_4_subplot_4_Unknown_Title
+2026-06-17 16:09:56,732 | INFO | [API CALL] Analyzing tiled_3_subplot_5_Unknown_Title
+2026-06-17 16:09:56,741 | ERROR | Error analyzing tiled_4_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,743 | ERROR | Error analyzing tiled_3_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,746 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,747 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,758 | INFO | [API CALL] Analyzing tiled_3_subplot_6_Unknown_Title
+2026-06-17 16:09:56,760 | INFO | [API CALL] Analyzing tiled_4_subplot_5_Unknown_Title
+2026-06-17 16:09:56,769 | ERROR | Error analyzing tiled_3_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,773 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,774 | ERROR | Error analyzing tiled_4_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,777 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,779 | INFO | [API CALL] Analyzing tiled_3_subplot_7_Unknown_Title
+2026-06-17 16:09:56,785 | ERROR | Error analyzing tiled_3_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,789 | INFO | [API CALL] Analyzing tiled_4_subplot_6_Unknown_Title
+2026-06-17 16:09:56,790 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,800 | INFO | [API CALL] Analyzing tiled_3_subplot_8_Unknown_Title
+2026-06-17 16:09:56,801 | ERROR | Error analyzing tiled_4_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,804 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,809 | ERROR | Error analyzing tiled_3_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,812 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,816 | INFO | [API CALL] Analyzing tiled_4_subplot_7_Unknown_Title
+2026-06-17 16:09:56,825 | INFO | [API CALL] Analyzing tiled_3_subplot_9_Unknown_Title
+2026-06-17 16:09:56,827 | ERROR | Error analyzing tiled_4_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,831 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,836 | ERROR | Error analyzing tiled_3_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,840 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,842 | INFO | [API CALL] Analyzing tiled_4_subplot_8_Unknown_Title
+2026-06-17 16:09:56,852 | INFO | [API CALL] Analyzing tiled_3_subplot_10_Unknown_Title
+2026-06-17 16:09:56,853 | ERROR | Error analyzing tiled_4_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,857 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,864 | ERROR | Error analyzing tiled_3_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,868 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,871 | INFO | [API CALL] Analyzing tiled_4_subplot_9_Unknown_Title
+2026-06-17 16:09:56,877 | INFO | [API CALL] Analyzing tiled_3_subplot_11_Unknown_Title
+2026-06-17 16:09:56,885 | ERROR | Error analyzing tiled_4_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,886 | ERROR | Error analyzing tiled_3_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,889 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,890 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,900 | INFO | [API CALL] Analyzing tiled_3_subplot_12_Unknown_Title
+2026-06-17 16:09:56,904 | INFO | [API CALL] Analyzing tiled_4_subplot_10_Unknown_Title
+2026-06-17 16:09:56,909 | ERROR | Error analyzing tiled_3_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,919 | ERROR | Error analyzing tiled_4_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,922 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,932 | INFO | [API CALL] Analyzing tiled_4_subplot_11_Unknown_Title
+2026-06-17 16:09:56,943 | ERROR | Error analyzing tiled_4_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,947 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:09:56,958 | INFO | [API CALL] Analyzing tiled_4_subplot_12_Unknown_Title
+2026-06-17 16:09:56,968 | ERROR | Error analyzing tiled_4_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:09:56,971 | INFO | Selecting top 20 plots...
+2026-06-17 16:14:06,954 | INFO | Starting analysis
+2026-06-17 16:14:06,956 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:14:06,956 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:14:06,958 | INFO | Model: gpt-4o-mini
+2026-06-17 16:14:06,958 | INFO | Cache enabled: True
+2026-06-17 16:14:06,959 | INFO | Loading cache...
+2026-06-17 16:14:06,962 | INFO | Processing file: tiled_3.png
+2026-06-17 16:14:06,964 | INFO | Processing file: tiled_4.png
+2026-06-17 16:14:07,003 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,004 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,016 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:14:07,016 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:14:07,683 | ERROR | Error analyzing tiled_4_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,683 | ERROR | Error analyzing tiled_3_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,690 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,696 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,713 | INFO | [API CALL] Analyzing tiled_4_subplot_2_Unknown_Title
+2026-06-17 16:14:07,715 | INFO | [API CALL] Analyzing tiled_3_subplot_2_Unknown_Title
+2026-06-17 16:14:07,724 | ERROR | Error analyzing tiled_4_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,725 | ERROR | Error analyzing tiled_3_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,729 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,731 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,740 | INFO | [API CALL] Analyzing tiled_4_subplot_3_Unknown_Title
+2026-06-17 16:14:07,743 | INFO | [API CALL] Analyzing tiled_3_subplot_3_Unknown_Title
+2026-06-17 16:14:07,750 | ERROR | Error analyzing tiled_4_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,753 | ERROR | Error analyzing tiled_3_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,756 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,758 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,767 | INFO | [API CALL] Analyzing tiled_3_subplot_4_Unknown_Title
+2026-06-17 16:14:07,770 | INFO | [API CALL] Analyzing tiled_4_subplot_4_Unknown_Title
+2026-06-17 16:14:07,776 | ERROR | Error analyzing tiled_3_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,780 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,783 | ERROR | Error analyzing tiled_4_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,787 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,790 | INFO | [API CALL] Analyzing tiled_3_subplot_5_Unknown_Title
+2026-06-17 16:14:07,800 | INFO | [API CALL] Analyzing tiled_4_subplot_5_Unknown_Title
+2026-06-17 16:14:07,802 | ERROR | Error analyzing tiled_3_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,806 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,813 | ERROR | Error analyzing tiled_4_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,817 | INFO | [API CALL] Analyzing tiled_3_subplot_6_Unknown_Title
+2026-06-17 16:14:07,818 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,827 | ERROR | Error analyzing tiled_3_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,830 | INFO | [API CALL] Analyzing tiled_4_subplot_6_Unknown_Title
+2026-06-17 16:14:07,833 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,842 | ERROR | Error analyzing tiled_4_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,846 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,848 | INFO | [API CALL] Analyzing tiled_3_subplot_7_Unknown_Title
+2026-06-17 16:14:07,854 | ERROR | Error analyzing tiled_3_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,858 | INFO | [API CALL] Analyzing tiled_4_subplot_7_Unknown_Title
+2026-06-17 16:14:07,860 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,868 | ERROR | Error analyzing tiled_4_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,870 | INFO | [API CALL] Analyzing tiled_3_subplot_8_Unknown_Title
+2026-06-17 16:14:07,874 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,880 | ERROR | Error analyzing tiled_3_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,884 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,886 | INFO | [API CALL] Analyzing tiled_4_subplot_8_Unknown_Title
+2026-06-17 16:14:07,895 | INFO | [API CALL] Analyzing tiled_3_subplot_9_Unknown_Title
+2026-06-17 16:14:07,897 | ERROR | Error analyzing tiled_4_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,901 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,907 | ERROR | Error analyzing tiled_3_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,911 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,916 | INFO | [API CALL] Analyzing tiled_4_subplot_9_Unknown_Title
+2026-06-17 16:14:07,923 | INFO | [API CALL] Analyzing tiled_3_subplot_10_Unknown_Title
+2026-06-17 16:14:07,930 | ERROR | Error analyzing tiled_4_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,934 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,934 | ERROR | Error analyzing tiled_3_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,938 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,947 | INFO | [API CALL] Analyzing tiled_3_subplot_11_Unknown_Title
+2026-06-17 16:14:07,948 | INFO | [API CALL] Analyzing tiled_4_subplot_10_Unknown_Title
+2026-06-17 16:14:07,956 | ERROR | Error analyzing tiled_3_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,959 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:07,968 | INFO | [API CALL] Analyzing tiled_3_subplot_12_Unknown_Title
+2026-06-17 16:14:07,978 | ERROR | Error analyzing tiled_3_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,984 | ERROR | Error analyzing tiled_4_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:07,992 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:08,015 | INFO | [API CALL] Analyzing tiled_4_subplot_11_Unknown_Title
+2026-06-17 16:14:08,026 | ERROR | Error analyzing tiled_4_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:08,030 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:14:08,040 | INFO | [API CALL] Analyzing tiled_4_subplot_12_Unknown_Title
+2026-06-17 16:14:08,051 | ERROR | Error analyzing tiled_4_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:14:08,056 | INFO | Selecting top 20 plots...
+2026-06-17 16:16:30,692 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-06-17 16:16:36,096 | INFO | Starting analysis
+2026-06-17 16:16:36,097 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:16:36,098 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:16:36,099 | INFO | Model: gpt-4o-mini
+2026-06-17 16:16:36,099 | INFO | Cache enabled: True
+2026-06-17 16:16:36,100 | INFO | Loading cache...
+2026-06-17 16:16:36,103 | INFO | Processing file: tiled_3.png
+2026-06-17 16:16:36,106 | INFO | Processing file: tiled_4.png
+2026-06-17 16:16:36,132 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,136 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,142 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:16:36,148 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:16:36,152 | ERROR | Error analyzing tiled_3_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,156 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,159 | ERROR | Error analyzing tiled_4_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,162 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,166 | INFO | [API CALL] Analyzing tiled_3_subplot_2_Unknown_Title
+2026-06-17 16:16:36,172 | INFO | [API CALL] Analyzing tiled_4_subplot_2_Unknown_Title
+2026-06-17 16:16:36,176 | ERROR | Error analyzing tiled_3_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,180 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,182 | ERROR | Error analyzing tiled_4_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,186 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,191 | INFO | [API CALL] Analyzing tiled_3_subplot_3_Unknown_Title
+2026-06-17 16:16:36,196 | INFO | [API CALL] Analyzing tiled_4_subplot_3_Unknown_Title
+2026-06-17 16:16:36,202 | ERROR | Error analyzing tiled_3_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,206 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,207 | ERROR | Error analyzing tiled_4_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,211 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,215 | INFO | [API CALL] Analyzing tiled_3_subplot_4_Unknown_Title
+2026-06-17 16:16:36,224 | ERROR | Error analyzing tiled_3_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,225 | INFO | [API CALL] Analyzing tiled_4_subplot_4_Unknown_Title
+2026-06-17 16:16:36,229 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,239 | ERROR | Error analyzing tiled_4_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,240 | INFO | [API CALL] Analyzing tiled_3_subplot_5_Unknown_Title
+2026-06-17 16:16:36,244 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,251 | ERROR | Error analyzing tiled_3_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,255 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,257 | INFO | [API CALL] Analyzing tiled_4_subplot_5_Unknown_Title
+2026-06-17 16:16:36,265 | INFO | [API CALL] Analyzing tiled_3_subplot_6_Unknown_Title
+2026-06-17 16:16:36,271 | ERROR | Error analyzing tiled_4_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,275 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,277 | ERROR | Error analyzing tiled_3_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,280 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,287 | INFO | [API CALL] Analyzing tiled_3_subplot_7_Unknown_Title
+2026-06-17 16:16:36,288 | INFO | [API CALL] Analyzing tiled_4_subplot_6_Unknown_Title
+2026-06-17 16:16:36,293 | ERROR | Error analyzing tiled_3_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,297 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,300 | ERROR | Error analyzing tiled_4_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,303 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,307 | INFO | [API CALL] Analyzing tiled_3_subplot_8_Unknown_Title
+2026-06-17 16:16:36,315 | INFO | [API CALL] Analyzing tiled_4_subplot_7_Unknown_Title
+2026-06-17 16:16:36,316 | ERROR | Error analyzing tiled_3_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,320 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,327 | ERROR | Error analyzing tiled_4_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,331 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,332 | INFO | [API CALL] Analyzing tiled_3_subplot_9_Unknown_Title
+2026-06-17 16:16:36,342 | INFO | [API CALL] Analyzing tiled_4_subplot_8_Unknown_Title
+2026-06-17 16:16:36,344 | ERROR | Error analyzing tiled_3_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,347 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,353 | ERROR | Error analyzing tiled_4_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,356 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,359 | INFO | [API CALL] Analyzing tiled_3_subplot_10_Unknown_Title
+2026-06-17 16:16:36,371 | INFO | [API CALL] Analyzing tiled_4_subplot_9_Unknown_Title
+2026-06-17 16:16:36,372 | ERROR | Error analyzing tiled_3_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,376 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,385 | INFO | [API CALL] Analyzing tiled_3_subplot_11_Unknown_Title
+2026-06-17 16:16:36,386 | ERROR | Error analyzing tiled_4_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,390 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,395 | ERROR | Error analyzing tiled_3_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,399 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,405 | INFO | [API CALL] Analyzing tiled_4_subplot_10_Unknown_Title
+2026-06-17 16:16:36,408 | INFO | [API CALL] Analyzing tiled_3_subplot_12_Unknown_Title
+2026-06-17 16:16:36,418 | ERROR | Error analyzing tiled_3_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,420 | ERROR | Error analyzing tiled_4_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,424 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,435 | INFO | [API CALL] Analyzing tiled_4_subplot_11_Unknown_Title
+2026-06-17 16:16:36,447 | ERROR | Error analyzing tiled_4_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,451 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:16:36,462 | INFO | [API CALL] Analyzing tiled_4_subplot_12_Unknown_Title
+2026-06-17 16:16:36,474 | ERROR | Error analyzing tiled_4_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:16:36,477 | INFO | Selecting top 20 plots...
+2026-06-17 16:16:37,077 | INFO | Analysis completed in 0.98 seconds
+2026-06-17 16:19:08,066 | WARNING | Using CPU. Note: This module is much faster with a GPU.
+2026-06-17 16:19:24,334 | INFO | Starting analysis
+2026-06-17 16:19:24,336 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:19:24,337 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:19:24,338 | INFO | Model: gpt-4o-mini
+2026-06-17 16:19:24,339 | INFO | Cache enabled: True
+2026-06-17 16:19:24,340 | INFO | Loading cache...
+2026-06-17 16:19:24,343 | INFO | Processing file: tiled_3.png
+2026-06-17 16:19:24,346 | INFO | Processing file: tiled_4.png
+2026-06-17 16:19:24,387 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,394 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,399 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:19:24,404 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:19:24,414 | ERROR | Error analyzing tiled_3_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,419 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,421 | ERROR | Error analyzing tiled_4_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,426 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,430 | INFO | [API CALL] Analyzing tiled_3_subplot_2_Unknown_Title
+2026-06-17 16:19:24,437 | INFO | [API CALL] Analyzing tiled_4_subplot_2_Unknown_Title
+2026-06-17 16:19:24,440 | ERROR | Error analyzing tiled_3_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,444 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,447 | ERROR | Error analyzing tiled_4_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,451 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,455 | INFO | [API CALL] Analyzing tiled_3_subplot_3_Unknown_Title
+2026-06-17 16:19:24,461 | INFO | [API CALL] Analyzing tiled_4_subplot_3_Unknown_Title
+2026-06-17 16:19:24,465 | ERROR | Error analyzing tiled_3_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,470 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,471 | ERROR | Error analyzing tiled_4_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,475 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,479 | INFO | [API CALL] Analyzing tiled_3_subplot_4_Unknown_Title
+2026-06-17 16:19:24,487 | ERROR | Error analyzing tiled_3_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,489 | INFO | [API CALL] Analyzing tiled_4_subplot_4_Unknown_Title
+2026-06-17 16:19:24,491 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,504 | ERROR | Error analyzing tiled_4_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,504 | INFO | [API CALL] Analyzing tiled_3_subplot_5_Unknown_Title
+2026-06-17 16:19:24,508 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,516 | ERROR | Error analyzing tiled_3_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,520 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,522 | INFO | [API CALL] Analyzing tiled_4_subplot_5_Unknown_Title
+2026-06-17 16:19:24,530 | INFO | [API CALL] Analyzing tiled_3_subplot_6_Unknown_Title
+2026-06-17 16:19:24,535 | ERROR | Error analyzing tiled_4_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,538 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,540 | ERROR | Error analyzing tiled_3_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,543 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,550 | INFO | [API CALL] Analyzing tiled_3_subplot_7_Unknown_Title
+2026-06-17 16:19:24,550 | INFO | [API CALL] Analyzing tiled_4_subplot_6_Unknown_Title
+2026-06-17 16:19:24,556 | ERROR | Error analyzing tiled_3_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,559 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,561 | ERROR | Error analyzing tiled_4_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,564 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,568 | INFO | [API CALL] Analyzing tiled_3_subplot_8_Unknown_Title
+2026-06-17 16:19:24,575 | INFO | [API CALL] Analyzing tiled_4_subplot_7_Unknown_Title
+2026-06-17 16:19:24,576 | ERROR | Error analyzing tiled_3_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,579 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,586 | ERROR | Error analyzing tiled_4_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,589 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,590 | INFO | [API CALL] Analyzing tiled_3_subplot_9_Unknown_Title
+2026-06-17 16:19:24,600 | INFO | [API CALL] Analyzing tiled_4_subplot_8_Unknown_Title
+2026-06-17 16:19:24,613 | ERROR | Error analyzing tiled_4_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,617 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,618 | ERROR | Error analyzing tiled_3_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,621 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,631 | INFO | [API CALL] Analyzing tiled_4_subplot_9_Unknown_Title
+2026-06-17 16:19:24,633 | INFO | [API CALL] Analyzing tiled_3_subplot_10_Unknown_Title
+2026-06-17 16:19:24,644 | ERROR | Error analyzing tiled_3_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,645 | ERROR | Error analyzing tiled_4_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,649 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,651 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,659 | INFO | [API CALL] Analyzing tiled_3_subplot_11_Unknown_Title
+2026-06-17 16:19:24,667 | INFO | [API CALL] Analyzing tiled_4_subplot_10_Unknown_Title
+2026-06-17 16:19:24,668 | ERROR | Error analyzing tiled_3_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,672 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,681 | INFO | [API CALL] Analyzing tiled_3_subplot_12_Unknown_Title
+2026-06-17 16:19:24,681 | ERROR | Error analyzing tiled_4_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,686 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,690 | ERROR | Error analyzing tiled_3_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,696 | INFO | [API CALL] Analyzing tiled_4_subplot_11_Unknown_Title
+2026-06-17 16:19:24,707 | ERROR | Error analyzing tiled_4_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,711 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:19:24,722 | INFO | [API CALL] Analyzing tiled_4_subplot_12_Unknown_Title
+2026-06-17 16:19:24,733 | ERROR | Error analyzing tiled_4_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:19:24,738 | INFO | Selecting top 20 plots...
+2026-06-17 16:19:25,353 | INFO | Analysis completed in 1.02 seconds
+2026-06-17 16:20:26,328 | INFO | Starting analysis
+2026-06-17 16:20:26,330 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:20:26,331 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:20:26,332 | INFO | Model: gpt-4o-mini
+2026-06-17 16:20:26,333 | INFO | Cache enabled: True
+2026-06-17 16:20:26,334 | INFO | Loading cache...
+2026-06-17 16:20:26,336 | INFO | Processing file: tiled_3.png
+2026-06-17 16:20:26,339 | INFO | Processing file: tiled_4.png
+2026-06-17 16:20:26,377 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:26,379 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:26,388 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:20:26,390 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:20:27,118 | ERROR | Error analyzing tiled_3_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,120 | ERROR | Error analyzing tiled_4_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,126 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,131 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,136 | INFO | [API CALL] Analyzing tiled_3_subplot_2_Unknown_Title
+2026-06-17 16:20:27,143 | INFO | [API CALL] Analyzing tiled_4_subplot_2_Unknown_Title
+2026-06-17 16:20:27,145 | ERROR | Error analyzing tiled_3_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,148 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,153 | ERROR | Error analyzing tiled_4_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,156 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,158 | INFO | [API CALL] Analyzing tiled_3_subplot_3_Unknown_Title
+2026-06-17 16:20:27,165 | INFO | [API CALL] Analyzing tiled_4_subplot_3_Unknown_Title
+2026-06-17 16:20:27,168 | ERROR | Error analyzing tiled_3_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,171 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,174 | ERROR | Error analyzing tiled_4_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,178 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,179 | INFO | [API CALL] Analyzing tiled_3_subplot_4_Unknown_Title
+2026-06-17 16:20:27,187 | ERROR | Error analyzing tiled_3_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,190 | INFO | [API CALL] Analyzing tiled_4_subplot_4_Unknown_Title
+2026-06-17 16:20:27,191 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,201 | INFO | [API CALL] Analyzing tiled_3_subplot_5_Unknown_Title
+2026-06-17 16:20:27,204 | ERROR | Error analyzing tiled_4_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,207 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,211 | ERROR | Error analyzing tiled_3_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,218 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,220 | INFO | [API CALL] Analyzing tiled_4_subplot_5_Unknown_Title
+2026-06-17 16:20:27,228 | INFO | [API CALL] Analyzing tiled_3_subplot_6_Unknown_Title
+2026-06-17 16:20:27,233 | ERROR | Error analyzing tiled_4_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,236 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,238 | ERROR | Error analyzing tiled_3_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,242 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,247 | INFO | [API CALL] Analyzing tiled_4_subplot_6_Unknown_Title
+2026-06-17 16:20:27,248 | INFO | [API CALL] Analyzing tiled_3_subplot_7_Unknown_Title
+2026-06-17 16:20:27,254 | ERROR | Error analyzing tiled_3_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,258 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,259 | ERROR | Error analyzing tiled_4_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,262 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,267 | INFO | [API CALL] Analyzing tiled_3_subplot_8_Unknown_Title
+2026-06-17 16:20:27,274 | INFO | [API CALL] Analyzing tiled_4_subplot_7_Unknown_Title
+2026-06-17 16:20:27,276 | ERROR | Error analyzing tiled_3_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,279 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,285 | ERROR | Error analyzing tiled_4_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,289 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,291 | INFO | [API CALL] Analyzing tiled_3_subplot_9_Unknown_Title
+2026-06-17 16:20:27,300 | INFO | [API CALL] Analyzing tiled_4_subplot_8_Unknown_Title
+2026-06-17 16:20:27,302 | ERROR | Error analyzing tiled_3_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,305 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,311 | ERROR | Error analyzing tiled_4_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,314 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,317 | INFO | [API CALL] Analyzing tiled_3_subplot_10_Unknown_Title
+2026-06-17 16:20:27,329 | ERROR | Error analyzing tiled_3_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,330 | INFO | [API CALL] Analyzing tiled_4_subplot_9_Unknown_Title
+2026-06-17 16:20:27,333 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,344 | ERROR | Error analyzing tiled_4_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,348 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,361 | INFO | [API CALL] Analyzing tiled_3_subplot_11_Unknown_Title
+2026-06-17 16:20:27,363 | INFO | [API CALL] Analyzing tiled_4_subplot_10_Unknown_Title
+2026-06-17 16:20:27,371 | ERROR | Error analyzing tiled_3_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,374 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,377 | ERROR | Error analyzing tiled_4_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,381 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,384 | INFO | [API CALL] Analyzing tiled_3_subplot_12_Unknown_Title
+2026-06-17 16:20:27,393 | INFO | [API CALL] Analyzing tiled_4_subplot_11_Unknown_Title
+2026-06-17 16:20:27,394 | ERROR | Error analyzing tiled_3_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,404 | ERROR | Error analyzing tiled_4_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,408 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:20:27,420 | INFO | [API CALL] Analyzing tiled_4_subplot_12_Unknown_Title
+2026-06-17 16:20:27,431 | ERROR | Error analyzing tiled_4_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:20:27,435 | INFO | Selecting top 20 plots...
+2026-06-17 16:20:28,028 | INFO | Analysis completed in 1.70 seconds
+2026-06-17 16:22:28,826 | INFO | Starting analysis
+2026-06-17 16:22:28,827 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:22:28,829 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:22:28,830 | INFO | Model: gpt-4o-mini
+2026-06-17 16:22:28,830 | INFO | Cache enabled: True
+2026-06-17 16:22:28,831 | INFO | Loading cache...
+2026-06-17 16:22:28,834 | INFO | Processing file: tiled_3.png
+2026-06-17 16:22:28,836 | INFO | Processing file: tiled_4.png
+2026-06-17 16:22:28,877 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:28,888 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:22:28,896 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:28,907 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:22:29,583 | ERROR | Error analyzing tiled_3_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,583 | ERROR | Error analyzing tiled_4_subplot_1_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,591 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,591 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,601 | INFO | [API CALL] Analyzing tiled_3_subplot_2_Unknown_Title
+2026-06-17 16:22:29,603 | INFO | [API CALL] Analyzing tiled_4_subplot_2_Unknown_Title
+2026-06-17 16:22:29,610 | ERROR | Error analyzing tiled_3_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,612 | ERROR | Error analyzing tiled_4_subplot_2_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,614 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,617 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,624 | INFO | [API CALL] Analyzing tiled_3_subplot_3_Unknown_Title
+2026-06-17 16:22:29,626 | INFO | [API CALL] Analyzing tiled_4_subplot_3_Unknown_Title
+2026-06-17 16:22:29,634 | ERROR | Error analyzing tiled_3_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,638 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,646 | INFO | [API CALL] Analyzing tiled_3_subplot_4_Unknown_Title
+2026-06-17 16:22:29,654 | ERROR | Error analyzing tiled_4_subplot_3_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,654 | ERROR | Error analyzing tiled_3_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,659 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,662 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,669 | INFO | [API CALL] Analyzing tiled_3_subplot_5_Unknown_Title
+2026-06-17 16:22:29,679 | ERROR | Error analyzing tiled_3_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,682 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,691 | INFO | [API CALL] Analyzing tiled_4_subplot_4_Unknown_Title
+2026-06-17 16:22:29,692 | INFO | [API CALL] Analyzing tiled_3_subplot_6_Unknown_Title
+2026-06-17 16:22:29,702 | ERROR | Error analyzing tiled_3_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,704 | ERROR | Error analyzing tiled_4_subplot_4_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,706 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,708 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,712 | INFO | [API CALL] Analyzing tiled_3_subplot_7_Unknown_Title
+2026-06-17 16:22:29,719 | ERROR | Error analyzing tiled_3_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,721 | INFO | [API CALL] Analyzing tiled_4_subplot_5_Unknown_Title
+2026-06-17 16:22:29,722 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,730 | INFO | [API CALL] Analyzing tiled_3_subplot_8_Unknown_Title
+2026-06-17 16:22:29,733 | ERROR | Error analyzing tiled_4_subplot_5_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,736 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,739 | ERROR | Error analyzing tiled_3_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,742 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,747 | INFO | [API CALL] Analyzing tiled_4_subplot_6_Unknown_Title
+2026-06-17 16:22:29,753 | INFO | [API CALL] Analyzing tiled_3_subplot_9_Unknown_Title
+2026-06-17 16:22:29,757 | ERROR | Error analyzing tiled_4_subplot_6_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,761 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,765 | ERROR | Error analyzing tiled_3_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,768 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,771 | INFO | [API CALL] Analyzing tiled_4_subplot_7_Unknown_Title
+2026-06-17 16:22:29,779 | INFO | [API CALL] Analyzing tiled_3_subplot_10_Unknown_Title
+2026-06-17 16:22:29,782 | ERROR | Error analyzing tiled_4_subplot_7_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,786 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,790 | ERROR | Error analyzing tiled_3_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,794 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,796 | INFO | [API CALL] Analyzing tiled_4_subplot_8_Unknown_Title
+2026-06-17 16:22:29,803 | INFO | [API CALL] Analyzing tiled_3_subplot_11_Unknown_Title
+2026-06-17 16:22:29,806 | ERROR | Error analyzing tiled_4_subplot_8_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,810 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,812 | ERROR | Error analyzing tiled_3_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,815 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,823 | INFO | [API CALL] Analyzing tiled_4_subplot_9_Unknown_Title
+2026-06-17 16:22:29,824 | INFO | [API CALL] Analyzing tiled_3_subplot_12_Unknown_Title
+2026-06-17 16:22:29,833 | ERROR | Error analyzing tiled_3_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,838 | ERROR | Error analyzing tiled_4_subplot_9_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,842 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,856 | INFO | [API CALL] Analyzing tiled_4_subplot_10_Unknown_Title
+2026-06-17 16:22:29,870 | ERROR | Error analyzing tiled_4_subplot_10_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,874 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,884 | INFO | [API CALL] Analyzing tiled_4_subplot_11_Unknown_Title
+2026-06-17 16:22:29,895 | ERROR | Error analyzing tiled_4_subplot_11_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,899 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:22:29,910 | INFO | [API CALL] Analyzing tiled_4_subplot_12_Unknown_Title
+2026-06-17 16:22:29,920 | ERROR | Error analyzing tiled_4_subplot_12_Unknown_Title: Completions.create() got an unexpected keyword argument 'images'
+2026-06-17 16:22:29,925 | INFO | Selecting top 20 plots...
+2026-06-17 16:22:30,548 | INFO | Analysis completed in 1.72 seconds
+2026-06-17 16:27:09,602 | INFO | Starting analysis
+2026-06-17 16:27:09,604 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:27:09,604 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:27:09,606 | INFO | Model: gpt-4o-mini
+2026-06-17 16:27:09,607 | INFO | Cache enabled: True
+2026-06-17 16:27:09,608 | INFO | Loading cache...
+2026-06-17 16:27:09,610 | INFO | Processing file: tiled_3.png
+2026-06-17 16:27:09,613 | INFO | Processing file: tiled_4.png
+2026-06-17 16:27:09,653 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:09,663 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:27:09,669 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:09,689 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:27:13,320 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:13,323 | INFO | Retrying request to /chat/completions in 0.427431 seconds
+2026-06-17 16:27:13,560 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:13,564 | INFO | Retrying request to /chat/completions in 0.428999 seconds
+2026-06-17 16:27:14,667 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:14,671 | INFO | Retrying request to /chat/completions in 0.850444 seconds
+2026-06-17 16:27:15,767 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:15,769 | INFO | Retrying request to /chat/completions in 0.842720 seconds
+2026-06-17 16:27:16,206 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:16,209 | ERROR | Error analyzing tiled_3_subplot_1_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:16,220 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:16,231 | INFO | [API CALL] Analyzing tiled_3_subplot_2_Unknown_Title
+2026-06-17 16:27:17,162 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:17,164 | INFO | Retrying request to /chat/completions in 0.414581 seconds
+2026-06-17 16:27:18,799 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:18,801 | INFO | Retrying request to /chat/completions in 0.799742 seconds
+2026-06-17 16:27:19,545 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:19,547 | ERROR | Error analyzing tiled_4_subplot_1_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:19,556 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:19,579 | INFO | [API CALL] Analyzing tiled_4_subplot_2_Unknown_Title
+2026-06-17 16:27:19,999 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:20,002 | INFO | Retrying request to /chat/completions in 0.457198 seconds
+2026-06-17 16:27:20,834 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:20,838 | INFO | Retrying request to /chat/completions in 0.955247 seconds
+2026-06-17 16:27:21,238 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:21,242 | ERROR | Error analyzing tiled_3_subplot_2_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:21,249 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:21,281 | INFO | [API CALL] Analyzing tiled_3_subplot_3_Unknown_Title
+2026-06-17 16:27:21,646 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:21,648 | INFO | Retrying request to /chat/completions in 0.494768 seconds
+2026-06-17 16:27:22,167 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:22,171 | ERROR | Error analyzing tiled_4_subplot_2_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:22,178 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:22,192 | INFO | [API CALL] Analyzing tiled_4_subplot_3_Unknown_Title
+2026-06-17 16:27:22,547 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:22,550 | INFO | Retrying request to /chat/completions in 0.496560 seconds
+2026-06-17 16:27:23,404 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:23,406 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:23,407 | INFO | Retrying request to /chat/completions in 0.785933 seconds
+2026-06-17 16:27:23,409 | INFO | Retrying request to /chat/completions in 0.935894 seconds
+2026-06-17 16:27:24,553 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:24,556 | ERROR | Error analyzing tiled_4_subplot_3_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:24,561 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:24,572 | INFO | [API CALL] Analyzing tiled_4_subplot_4_Unknown_Title
+2026-06-17 16:27:24,952 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:24,954 | INFO | Retrying request to /chat/completions in 0.474751 seconds
+2026-06-17 16:27:25,690 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:25,693 | ERROR | Error analyzing tiled_3_subplot_3_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:25,697 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:25,706 | INFO | [API CALL] Analyzing tiled_3_subplot_4_Unknown_Title
+2026-06-17 16:27:25,796 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:25,798 | INFO | Retrying request to /chat/completions in 0.934914 seconds
+2026-06-17 16:27:26,722 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:26,724 | INFO | Retrying request to /chat/completions in 0.442543 seconds
+2026-06-17 16:27:27,147 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:27,151 | ERROR | Error analyzing tiled_4_subplot_4_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:27,159 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:27,181 | INFO | [API CALL] Analyzing tiled_4_subplot_5_Unknown_Title
+2026-06-17 16:27:27,510 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:27,512 | INFO | Retrying request to /chat/completions in 0.974418 seconds
+2026-06-17 16:27:28,822 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:28,825 | ERROR | Error analyzing tiled_3_subplot_4_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:28,829 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:28,839 | INFO | [API CALL] Analyzing tiled_3_subplot_5_Unknown_Title
+2026-06-17 16:27:29,203 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:29,205 | INFO | Retrying request to /chat/completions in 0.497730 seconds
+2026-06-17 16:27:29,465 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:29,468 | INFO | Retrying request to /chat/completions in 0.445645 seconds
+2026-06-17 16:27:30,081 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:30,083 | INFO | Retrying request to /chat/completions in 0.774396 seconds
+2026-06-17 16:27:31,219 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:31,222 | ERROR | Error analyzing tiled_3_subplot_5_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:31,226 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:31,237 | INFO | [API CALL] Analyzing tiled_3_subplot_6_Unknown_Title
+2026-06-17 16:27:31,614 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:31,616 | INFO | Retrying request to /chat/completions in 0.423945 seconds
+2026-06-17 16:27:32,411 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:32,413 | INFO | Retrying request to /chat/completions in 0.950242 seconds
+2026-06-17 16:27:32,439 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:32,441 | INFO | Retrying request to /chat/completions in 0.964394 seconds
+2026-06-17 16:27:33,757 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:33,760 | ERROR | Error analyzing tiled_3_subplot_6_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:33,766 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:33,772 | INFO | [API CALL] Analyzing tiled_3_subplot_7_Unknown_Title
+2026-06-17 16:27:34,130 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:34,132 | INFO | Retrying request to /chat/completions in 0.404470 seconds
+2026-06-17 16:27:35,837 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:35,839 | INFO | Retrying request to /chat/completions in 0.961477 seconds
+2026-06-17 16:27:37,067 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:37,071 | ERROR | Error analyzing tiled_4_subplot_5_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:37,079 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:37,102 | INFO | [API CALL] Analyzing tiled_4_subplot_6_Unknown_Title
+2026-06-17 16:27:37,131 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:37,134 | ERROR | Error analyzing tiled_3_subplot_7_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:37,142 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:37,160 | INFO | [API CALL] Analyzing tiled_3_subplot_8_Unknown_Title
+2026-06-17 16:27:37,527 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:37,530 | INFO | Retrying request to /chat/completions in 0.491199 seconds
+2026-06-17 16:27:38,387 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:38,390 | INFO | Retrying request to /chat/completions in 0.801517 seconds
+2026-06-17 16:27:39,120 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:39,123 | INFO | Retrying request to /chat/completions in 0.388417 seconds
+2026-06-17 16:27:39,562 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:39,565 | ERROR | Error analyzing tiled_3_subplot_8_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:39,569 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:39,580 | INFO | [API CALL] Analyzing tiled_3_subplot_9_Unknown_Title
+2026-06-17 16:27:40,135 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:40,137 | INFO | Retrying request to /chat/completions in 0.492569 seconds
+2026-06-17 16:27:41,050 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:41,052 | INFO | Retrying request to /chat/completions in 0.891099 seconds
+2026-06-17 16:27:41,218 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:41,221 | INFO | Retrying request to /chat/completions in 0.753745 seconds
+2026-06-17 16:27:42,574 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:42,578 | ERROR | Error analyzing tiled_4_subplot_6_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:42,585 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:42,597 | INFO | [API CALL] Analyzing tiled_4_subplot_7_Unknown_Title
+2026-06-17 16:27:43,174 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:43,177 | INFO | Retrying request to /chat/completions in 0.494578 seconds
+2026-06-17 16:27:43,523 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:43,525 | ERROR | Error analyzing tiled_3_subplot_9_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:43,533 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:43,545 | INFO | [API CALL] Analyzing tiled_3_subplot_10_Unknown_Title
+2026-06-17 16:27:44,142 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:44,143 | INFO | Retrying request to /chat/completions in 0.395479 seconds
+2026-06-17 16:27:45,141 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:45,143 | INFO | Retrying request to /chat/completions in 0.929257 seconds
+2026-06-17 16:27:45,195 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:45,198 | INFO | Retrying request to /chat/completions in 0.853049 seconds
+2026-06-17 16:27:46,596 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:46,600 | ERROR | Error analyzing tiled_4_subplot_7_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:46,607 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:46,617 | INFO | [API CALL] Analyzing tiled_4_subplot_8_Unknown_Title
+2026-06-17 16:27:47,207 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:47,209 | INFO | Retrying request to /chat/completions in 0.460404 seconds
+2026-06-17 16:27:47,679 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:47,681 | ERROR | Error analyzing tiled_3_subplot_10_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:47,684 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:47,694 | INFO | [API CALL] Analyzing tiled_3_subplot_11_Unknown_Title
+2026-06-17 16:27:48,271 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:48,274 | INFO | Retrying request to /chat/completions in 0.998893 seconds
+2026-06-17 16:27:48,982 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:48,985 | INFO | Retrying request to /chat/completions in 0.399114 seconds
+2026-06-17 16:27:49,872 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:49,876 | ERROR | Error analyzing tiled_4_subplot_8_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:49,880 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:49,893 | INFO | [API CALL] Analyzing tiled_4_subplot_9_Unknown_Title
+2026-06-17 16:27:50,707 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:50,710 | INFO | Retrying request to /chat/completions in 0.994077 seconds
+2026-06-17 16:27:50,998 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:51,002 | INFO | Retrying request to /chat/completions in 0.480797 seconds
+2026-06-17 16:27:52,551 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:52,554 | INFO | Retrying request to /chat/completions in 0.939824 seconds
+2026-06-17 16:27:53,034 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:53,038 | ERROR | Error analyzing tiled_3_subplot_11_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:53,046 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:53,061 | INFO | [API CALL] Analyzing tiled_3_subplot_12_Unknown_Title
+2026-06-17 16:27:53,688 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:53,691 | INFO | Retrying request to /chat/completions in 0.463839 seconds
+2026-06-17 16:27:54,758 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:54,761 | INFO | Retrying request to /chat/completions in 0.859703 seconds
+2026-06-17 16:27:55,554 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:55,557 | ERROR | Error analyzing tiled_4_subplot_9_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:55,566 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:27:55,586 | INFO | [API CALL] Analyzing tiled_4_subplot_10_Unknown_Title
+2026-06-17 16:27:56,663 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:56,665 | INFO | Retrying request to /chat/completions in 0.449746 seconds
+2026-06-17 16:27:57,462 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:57,465 | ERROR | Error analyzing tiled_3_subplot_12_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:27:58,208 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:27:58,210 | INFO | Retrying request to /chat/completions in 0.945165 seconds
+2026-06-17 16:28:00,081 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:28:00,084 | ERROR | Error analyzing tiled_4_subplot_10_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:28:00,092 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:28:00,112 | INFO | [API CALL] Analyzing tiled_4_subplot_11_Unknown_Title
+2026-06-17 16:28:00,747 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:28:00,750 | INFO | Retrying request to /chat/completions in 0.464467 seconds
+2026-06-17 16:28:01,844 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:28:01,847 | INFO | Retrying request to /chat/completions in 0.792021 seconds
+2026-06-17 16:28:03,271 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:28:03,275 | ERROR | Error analyzing tiled_4_subplot_11_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:28:03,282 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:28:03,295 | INFO | [API CALL] Analyzing tiled_4_subplot_12_Unknown_Title
+2026-06-17 16:28:03,927 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:28:03,932 | INFO | Retrying request to /chat/completions in 0.462880 seconds
+2026-06-17 16:28:05,114 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:28:05,116 | INFO | Retrying request to /chat/completions in 0.914206 seconds
+2026-06-17 16:28:06,796 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:28:06,800 | ERROR | Error analyzing tiled_4_subplot_12_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:28:06,808 | INFO | Selecting top 20 plots...
+2026-06-17 16:28:07,436 | INFO | Analysis completed in 57.83 seconds
+2026-06-17 16:39:10,487 | INFO | Starting analysis
+2026-06-17 16:39:10,488 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:39:10,490 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:39:10,490 | INFO | Model: gpt-4o-mini
+2026-06-17 16:39:10,492 | INFO | Cache enabled: True
+2026-06-17 16:39:10,493 | INFO | Loading cache...
+2026-06-17 16:39:10,495 | INFO | Processing file: tiled_3.png
+2026-06-17 16:39:10,499 | INFO | Processing file: tiled_4.png
+2026-06-17 16:39:10,543 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:39:10,552 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:39:10,564 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:39:10,575 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:43:59,645 | INFO | Starting analysis
+2026-06-17 16:43:59,647 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:43:59,648 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:43:59,649 | INFO | Model: gpt-4o-mini
+2026-06-17 16:43:59,650 | INFO | Cache enabled: True
+2026-06-17 16:43:59,651 | INFO | Loading cache...
+2026-06-17 16:43:59,653 | INFO | Processing file: tiled_3.png
+2026-06-17 16:43:59,656 | INFO | Processing file: tiled_4.png
+2026-06-17 16:43:59,697 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:43:59,707 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:43:59,722 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:43:59,737 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:44:02,268 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:02,271 | INFO | Retrying request to /chat/completions in 0.461266 seconds
+2026-06-17 16:44:02,474 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:02,478 | INFO | Retrying request to /chat/completions in 0.395266 seconds
+2026-06-17 16:44:04,466 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:04,469 | INFO | Retrying request to /chat/completions in 0.854371 seconds
+2026-06-17 16:44:04,729 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:04,732 | INFO | Retrying request to /chat/completions in 0.758263 seconds
+2026-06-17 16:44:05,833 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:05,838 | ERROR | Error analyzing tiled_3_subplot_1_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:05,849 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:05,861 | INFO | [API CALL] Analyzing tiled_3_subplot_2_Unknown_Title
+2026-06-17 16:44:06,208 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:06,211 | INFO | Retrying request to /chat/completions in 0.473993 seconds
+2026-06-17 16:44:06,674 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:06,677 | ERROR | Error analyzing tiled_4_subplot_1_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:06,685 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:06,700 | INFO | [API CALL] Analyzing tiled_4_subplot_2_Unknown_Title
+2026-06-17 16:44:07,064 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:07,067 | INFO | Retrying request to /chat/completions in 0.478911 seconds
+2026-06-17 16:44:07,516 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:07,519 | INFO | Retrying request to /chat/completions in 0.818967 seconds
+2026-06-17 16:44:08,392 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:08,395 | INFO | Retrying request to /chat/completions in 0.955813 seconds
+2026-06-17 16:44:08,873 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:08,876 | ERROR | Error analyzing tiled_3_subplot_2_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:08,880 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:08,890 | INFO | [API CALL] Analyzing tiled_3_subplot_3_Unknown_Title
+2026-06-17 16:44:09,746 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:09,749 | ERROR | Error analyzing tiled_4_subplot_2_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:09,755 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:09,761 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:09,762 | INFO | Retrying request to /chat/completions in 0.445812 seconds
+2026-06-17 16:44:09,764 | INFO | [API CALL] Analyzing tiled_4_subplot_3_Unknown_Title
+2026-06-17 16:44:10,624 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:10,627 | INFO | Retrying request to /chat/completions in 0.905944 seconds
+2026-06-17 16:44:10,654 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:10,657 | INFO | Retrying request to /chat/completions in 0.418777 seconds
+2026-06-17 16:44:11,910 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:11,913 | ERROR | Error analyzing tiled_3_subplot_3_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:11,918 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:11,926 | INFO | [API CALL] Analyzing tiled_3_subplot_4_Unknown_Title
+2026-06-17 16:44:11,955 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:11,958 | INFO | Retrying request to /chat/completions in 0.843052 seconds
+2026-06-17 16:44:12,267 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:12,269 | INFO | Retrying request to /chat/completions in 0.452582 seconds
+2026-06-17 16:44:13,143 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:13,146 | ERROR | Error analyzing tiled_4_subplot_3_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:13,151 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:13,181 | INFO | [API CALL] Analyzing tiled_4_subplot_4_Unknown_Title
+2026-06-17 16:44:13,319 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:13,321 | INFO | Retrying request to /chat/completions in 0.876939 seconds
+2026-06-17 16:44:13,752 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:13,754 | INFO | Retrying request to /chat/completions in 0.384378 seconds
+2026-06-17 16:44:14,551 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:14,553 | ERROR | Error analyzing tiled_3_subplot_4_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:14,558 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:14,568 | INFO | [API CALL] Analyzing tiled_3_subplot_5_Unknown_Title
+2026-06-17 16:44:14,913 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:14,915 | INFO | Retrying request to /chat/completions in 0.489740 seconds
+2026-06-17 16:44:15,356 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:15,359 | INFO | Retrying request to /chat/completions in 0.854910 seconds
+2026-06-17 16:44:16,215 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:16,219 | INFO | Retrying request to /chat/completions in 0.833163 seconds
+2026-06-17 16:44:17,279 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:17,281 | ERROR | Error analyzing tiled_4_subplot_4_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:17,286 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:17,297 | INFO | [API CALL] Analyzing tiled_4_subplot_5_Unknown_Title
+2026-06-17 16:44:17,433 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:17,435 | ERROR | Error analyzing tiled_3_subplot_5_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:17,439 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:17,449 | INFO | [API CALL] Analyzing tiled_3_subplot_6_Unknown_Title
+2026-06-17 16:44:17,825 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:17,827 | INFO | Retrying request to /chat/completions in 0.498290 seconds
+2026-06-17 16:44:18,322 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:18,325 | INFO | Retrying request to /chat/completions in 0.430482 seconds
+2026-06-17 16:44:19,236 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:19,238 | INFO | Retrying request to /chat/completions in 0.979318 seconds
+2026-06-17 16:44:19,365 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:19,368 | INFO | Retrying request to /chat/completions in 0.919947 seconds
+2026-06-17 16:44:20,669 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:20,672 | ERROR | Error analyzing tiled_4_subplot_5_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:20,680 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:20,706 | INFO | [API CALL] Analyzing tiled_4_subplot_6_Unknown_Title
+2026-06-17 16:44:21,070 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:21,072 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:21,075 | INFO | Retrying request to /chat/completions in 0.407304 seconds
+2026-06-17 16:44:21,079 | ERROR | Error analyzing tiled_3_subplot_6_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:21,089 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:21,098 | INFO | [API CALL] Analyzing tiled_3_subplot_7_Unknown_Title
+2026-06-17 16:44:21,490 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:21,492 | INFO | Retrying request to /chat/completions in 0.443712 seconds
+2026-06-17 16:44:22,284 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:22,286 | INFO | Retrying request to /chat/completions in 0.976823 seconds
+2026-06-17 16:44:22,320 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:22,322 | INFO | Retrying request to /chat/completions in 0.825049 seconds
+2026-06-17 16:44:23,585 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:23,587 | ERROR | Error analyzing tiled_3_subplot_7_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:23,591 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:23,600 | INFO | [API CALL] Analyzing tiled_3_subplot_8_Unknown_Title
+2026-06-17 16:44:23,946 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:23,949 | INFO | Retrying request to /chat/completions in 0.455093 seconds
+2026-06-17 16:44:23,982 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:23,985 | ERROR | Error analyzing tiled_4_subplot_6_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:23,993 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:24,010 | INFO | [API CALL] Analyzing tiled_4_subplot_7_Unknown_Title
+2026-06-17 16:44:24,762 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:24,766 | INFO | Retrying request to /chat/completions in 0.849845 seconds
+2026-06-17 16:44:24,818 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:24,821 | INFO | Retrying request to /chat/completions in 0.495648 seconds
+2026-06-17 16:44:25,969 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:25,970 | ERROR | Error analyzing tiled_3_subplot_8_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:25,974 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:25,984 | INFO | [API CALL] Analyzing tiled_3_subplot_9_Unknown_Title
+2026-06-17 16:44:26,118 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:26,121 | INFO | Retrying request to /chat/completions in 0.787701 seconds
+2026-06-17 16:44:26,381 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:26,384 | INFO | Retrying request to /chat/completions in 0.449988 seconds
+2026-06-17 16:44:27,292 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:27,296 | ERROR | Error analyzing tiled_4_subplot_7_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:27,303 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:27,317 | INFO | [API CALL] Analyzing tiled_4_subplot_8_Unknown_Title
+2026-06-17 16:44:27,670 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:27,672 | INFO | Retrying request to /chat/completions in 0.384287 seconds
+2026-06-17 16:44:27,688 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:27,691 | INFO | Retrying request to /chat/completions in 0.820991 seconds
+2026-06-17 16:44:28,892 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:28,894 | ERROR | Error analyzing tiled_3_subplot_9_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:28,898 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:28,909 | INFO | [API CALL] Analyzing tiled_3_subplot_10_Unknown_Title
+2026-06-17 16:44:28,913 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:28,915 | INFO | Retrying request to /chat/completions in 0.888284 seconds
+2026-06-17 16:44:29,750 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:29,752 | INFO | Retrying request to /chat/completions in 0.403014 seconds
+2026-06-17 16:44:30,561 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:30,563 | INFO | Retrying request to /chat/completions in 0.825695 seconds
+2026-06-17 16:44:30,626 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:30,629 | ERROR | Error analyzing tiled_4_subplot_8_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:30,635 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:30,649 | INFO | [API CALL] Analyzing tiled_4_subplot_9_Unknown_Title
+2026-06-17 16:44:31,821 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:31,824 | INFO | Retrying request to /chat/completions in 0.441769 seconds
+2026-06-17 16:44:31,974 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:31,977 | ERROR | Error analyzing tiled_3_subplot_10_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:31,981 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:31,989 | INFO | [API CALL] Analyzing tiled_3_subplot_11_Unknown_Title
+2026-06-17 16:44:32,722 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:32,725 | INFO | Retrying request to /chat/completions in 0.969732 seconds
+2026-06-17 16:44:32,825 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:32,828 | INFO | Retrying request to /chat/completions in 0.432494 seconds
+2026-06-17 16:44:34,116 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:34,119 | ERROR | Error analyzing tiled_4_subplot_9_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:34,127 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:34,141 | INFO | [API CALL] Analyzing tiled_4_subplot_10_Unknown_Title
+2026-06-17 16:44:34,357 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:34,360 | INFO | Retrying request to /chat/completions in 0.777414 seconds
+2026-06-17 16:44:34,553 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:34,556 | INFO | Retrying request to /chat/completions in 0.379239 seconds
+2026-06-17 16:44:35,504 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:35,507 | ERROR | Error analyzing tiled_3_subplot_11_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:35,512 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:35,521 | INFO | [API CALL] Analyzing tiled_3_subplot_12_Unknown_Title
+2026-06-17 16:44:35,902 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:35,904 | INFO | Retrying request to /chat/completions in 0.377368 seconds
+2026-06-17 16:44:36,553 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:36,556 | INFO | Retrying request to /chat/completions in 0.811886 seconds
+2026-06-17 16:44:36,651 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:36,653 | INFO | Retrying request to /chat/completions in 0.823793 seconds
+2026-06-17 16:44:37,863 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:37,865 | ERROR | Error analyzing tiled_3_subplot_12_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:38,944 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:38,947 | ERROR | Error analyzing tiled_4_subplot_10_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:38,952 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:38,973 | INFO | [API CALL] Analyzing tiled_4_subplot_11_Unknown_Title
+2026-06-17 16:44:40,035 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:40,038 | INFO | Retrying request to /chat/completions in 0.400826 seconds
+2026-06-17 16:44:41,541 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:41,544 | INFO | Retrying request to /chat/completions in 0.995902 seconds
+2026-06-17 16:44:43,804 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:43,807 | ERROR | Error analyzing tiled_4_subplot_11_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:43,815 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:44:43,838 | INFO | [API CALL] Analyzing tiled_4_subplot_12_Unknown_Title
+2026-06-17 16:44:45,196 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:45,198 | INFO | Retrying request to /chat/completions in 0.404152 seconds
+2026-06-17 16:44:46,896 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:46,899 | INFO | Retrying request to /chat/completions in 0.815405 seconds
+2026-06-17 16:44:49,018 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:44:49,020 | ERROR | Error analyzing tiled_4_subplot_12_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:44:49,025 | INFO | Selecting top 20 plots...
+2026-06-17 16:44:49,625 | INFO | Analysis completed in 49.98 seconds
+2026-06-17 16:53:43,335 | INFO | Starting analysis
+2026-06-17 16:53:43,337 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 16:53:43,338 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 16:53:43,339 | INFO | Model: gpt-4o-mini
+2026-06-17 16:53:43,340 | INFO | Cache enabled: True
+2026-06-17 16:53:43,342 | INFO | Loading cache...
+2026-06-17 16:53:43,344 | INFO | Processing file: tiled_3.png
+2026-06-17 16:53:43,347 | INFO | Processing file: tiled_4.png
+2026-06-17 16:53:43,391 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:43,394 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:43,401 | INFO | [API CALL] Analyzing tiled_3_subplot_1_Unknown_Title
+2026-06-17 16:53:43,405 | INFO | [API CALL] Analyzing tiled_4_subplot_1_Unknown_Title
+2026-06-17 16:53:45,663 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:45,666 | INFO | Retrying request to /chat/completions in 0.399191 seconds
+2026-06-17 16:53:45,688 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:45,691 | INFO | Retrying request to /chat/completions in 0.434517 seconds
+2026-06-17 16:53:46,436 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:46,438 | INFO | Retrying request to /chat/completions in 0.873845 seconds
+2026-06-17 16:53:46,505 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:46,509 | INFO | Retrying request to /chat/completions in 0.934579 seconds
+2026-06-17 16:53:47,649 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:47,653 | ERROR | Error analyzing tiled_3_subplot_1_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:53:47,664 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:47,683 | INFO | [API CALL] Analyzing tiled_3_subplot_2_Unknown_Title
+2026-06-17 16:53:47,776 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:47,780 | ERROR | Error analyzing tiled_4_subplot_1_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:53:47,788 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:47,818 | INFO | [API CALL] Analyzing tiled_4_subplot_2_Unknown_Title
+2026-06-17 16:53:48,034 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:48,036 | INFO | Retrying request to /chat/completions in 0.384461 seconds
+2026-06-17 16:53:48,120 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:48,123 | INFO | Retrying request to /chat/completions in 0.375053 seconds
+2026-06-17 16:53:48,752 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:48,755 | INFO | Retrying request to /chat/completions in 0.910552 seconds
+2026-06-17 16:53:48,830 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:48,833 | INFO | Retrying request to /chat/completions in 0.929057 seconds
+2026-06-17 16:53:49,987 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:49,990 | ERROR | Error analyzing tiled_3_subplot_2_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:53:49,994 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:50,004 | INFO | [API CALL] Analyzing tiled_3_subplot_3_Unknown_Title
+2026-06-17 16:53:50,082 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:50,085 | ERROR | Error analyzing tiled_4_subplot_2_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:53:50,094 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:50,114 | INFO | [API CALL] Analyzing tiled_4_subplot_3_Unknown_Title
+2026-06-17 16:53:50,451 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:50,454 | INFO | Retrying request to /chat/completions in 0.392687 seconds
+2026-06-17 16:53:50,822 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:50,824 | INFO | Retrying request to /chat/completions in 0.449876 seconds
+2026-06-17 16:53:51,183 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:51,186 | INFO | Retrying request to /chat/completions in 0.936836 seconds
+2026-06-17 16:53:51,646 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:51,650 | INFO | Retrying request to /chat/completions in 0.971642 seconds
+2026-06-17 16:53:52,428 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:52,432 | ERROR | Error analyzing tiled_4_subplot_3_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:53:52,439 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:52,456 | INFO | [API CALL] Analyzing tiled_4_subplot_4_Unknown_Title
+2026-06-17 16:53:52,944 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:52,946 | ERROR | Error analyzing tiled_3_subplot_3_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:53:52,952 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:52,964 | INFO | [API CALL] Analyzing tiled_3_subplot_4_Unknown_Title
+2026-06-17 16:53:53,272 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:53,275 | INFO | Retrying request to /chat/completions in 0.468420 seconds
+2026-06-17 16:53:53,299 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:53,301 | INFO | Retrying request to /chat/completions in 0.488535 seconds
+2026-06-17 16:53:54,117 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:54,120 | INFO | Retrying request to /chat/completions in 0.924460 seconds
+2026-06-17 16:53:54,147 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:54,149 | INFO | Retrying request to /chat/completions in 0.973728 seconds
+2026-06-17 16:53:55,377 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:55,380 | ERROR | Error analyzing tiled_4_subplot_4_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:53:55,386 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:55,403 | INFO | [API CALL] Analyzing tiled_4_subplot_5_Unknown_Title
+2026-06-17 16:53:55,441 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:55,442 | ERROR | Error analyzing tiled_3_subplot_4_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:53:55,446 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:55,457 | INFO | [API CALL] Analyzing tiled_3_subplot_5_Unknown_Title
+2026-06-17 16:53:55,737 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:55,740 | INFO | Retrying request to /chat/completions in 0.422448 seconds
+2026-06-17 16:53:56,236 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:56,241 | INFO | Retrying request to /chat/completions in 0.390037 seconds
+2026-06-17 16:53:56,505 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:56,508 | INFO | Retrying request to /chat/completions in 0.865270 seconds
+2026-06-17 16:53:56,975 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:56,977 | INFO | Retrying request to /chat/completions in 0.942230 seconds
+2026-06-17 16:53:57,723 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:57,726 | ERROR | Error analyzing tiled_4_subplot_5_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:53:57,734 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:57,761 | INFO | [API CALL] Analyzing tiled_4_subplot_6_Unknown_Title
+2026-06-17 16:53:58,104 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:58,107 | INFO | Retrying request to /chat/completions in 0.443532 seconds
+2026-06-17 16:53:58,265 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:58,267 | ERROR | Error analyzing tiled_3_subplot_5_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:53:58,272 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:53:58,284 | INFO | [API CALL] Analyzing tiled_3_subplot_6_Unknown_Title
+2026-06-17 16:53:58,618 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:58,620 | INFO | Retrying request to /chat/completions in 0.472778 seconds
+2026-06-17 16:53:58,899 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:58,901 | INFO | Retrying request to /chat/completions in 0.813847 seconds
+2026-06-17 16:53:59,438 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:53:59,440 | INFO | Retrying request to /chat/completions in 0.779861 seconds
+2026-06-17 16:54:00,070 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:00,074 | ERROR | Error analyzing tiled_4_subplot_6_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:00,081 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:00,095 | INFO | [API CALL] Analyzing tiled_4_subplot_7_Unknown_Title
+2026-06-17 16:54:00,431 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:00,434 | INFO | Retrying request to /chat/completions in 0.460350 seconds
+2026-06-17 16:54:00,542 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:00,545 | ERROR | Error analyzing tiled_3_subplot_6_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:00,549 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:00,555 | INFO | [API CALL] Analyzing tiled_3_subplot_7_Unknown_Title
+2026-06-17 16:54:00,894 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:00,896 | INFO | Retrying request to /chat/completions in 0.400098 seconds
+2026-06-17 16:54:01,246 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:01,249 | INFO | Retrying request to /chat/completions in 0.844021 seconds
+2026-06-17 16:54:01,601 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:01,603 | INFO | Retrying request to /chat/completions in 0.807347 seconds
+2026-06-17 16:54:02,455 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:02,459 | ERROR | Error analyzing tiled_4_subplot_7_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:02,464 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:02,496 | INFO | [API CALL] Analyzing tiled_4_subplot_8_Unknown_Title
+2026-06-17 16:54:02,712 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:02,714 | ERROR | Error analyzing tiled_3_subplot_7_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:02,718 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:02,737 | INFO | [API CALL] Analyzing tiled_3_subplot_8_Unknown_Title
+2026-06-17 16:54:02,830 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:02,833 | INFO | Retrying request to /chat/completions in 0.414695 seconds
+2026-06-17 16:54:03,048 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:03,050 | INFO | Retrying request to /chat/completions in 0.421572 seconds
+2026-06-17 16:54:05,103 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:05,106 | INFO | Retrying request to /chat/completions in 0.947990 seconds
+2026-06-17 16:54:06,146 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:06,149 | INFO | Retrying request to /chat/completions in 0.979622 seconds
+2026-06-17 16:54:06,377 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:06,379 | ERROR | Error analyzing tiled_4_subplot_8_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:06,382 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:06,396 | INFO | [API CALL] Analyzing tiled_4_subplot_9_Unknown_Title
+2026-06-17 16:54:06,793 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:06,796 | INFO | Retrying request to /chat/completions in 0.413673 seconds
+2026-06-17 16:54:07,465 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:07,468 | ERROR | Error analyzing tiled_3_subplot_8_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:07,476 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:07,507 | INFO | [API CALL] Analyzing tiled_3_subplot_9_Unknown_Title
+2026-06-17 16:54:07,902 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:07,905 | INFO | Retrying request to /chat/completions in 0.401677 seconds
+2026-06-17 16:54:08,645 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:08,647 | INFO | Retrying request to /chat/completions in 0.860436 seconds
+2026-06-17 16:54:09,865 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:09,867 | ERROR | Error analyzing tiled_3_subplot_9_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:09,872 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:09,883 | INFO | [API CALL] Analyzing tiled_3_subplot_10_Unknown_Title
+2026-06-17 16:54:10,237 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:10,242 | INFO | Retrying request to /chat/completions in 0.378664 seconds
+2026-06-17 16:54:10,675 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:10,679 | INFO | Retrying request to /chat/completions in 0.917132 seconds
+2026-06-17 16:54:10,995 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:10,998 | INFO | Retrying request to /chat/completions in 0.987173 seconds
+2026-06-17 16:54:11,982 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:11,985 | ERROR | Error analyzing tiled_4_subplot_9_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:11,995 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:12,022 | INFO | [API CALL] Analyzing tiled_4_subplot_10_Unknown_Title
+2026-06-17 16:54:12,308 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:12,310 | ERROR | Error analyzing tiled_3_subplot_10_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:12,315 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:12,324 | INFO | [API CALL] Analyzing tiled_3_subplot_11_Unknown_Title
+2026-06-17 16:54:12,661 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:12,663 | INFO | Retrying request to /chat/completions in 0.469994 seconds
+2026-06-17 16:54:13,487 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:13,489 | INFO | Retrying request to /chat/completions in 0.765185 seconds
+2026-06-17 16:54:13,531 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:13,533 | INFO | Retrying request to /chat/completions in 0.491222 seconds
+2026-06-17 16:54:14,381 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:14,383 | INFO | Retrying request to /chat/completions in 0.852863 seconds
+2026-06-17 16:54:15,132 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:15,135 | ERROR | Error analyzing tiled_3_subplot_11_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:15,143 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:15,161 | INFO | [API CALL] Analyzing tiled_3_subplot_12_Unknown_Title
+2026-06-17 16:54:15,488 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:15,490 | INFO | Retrying request to /chat/completions in 0.380045 seconds
+2026-06-17 16:54:16,223 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:16,224 | INFO | Retrying request to /chat/completions in 0.965923 seconds
+2026-06-17 16:54:16,743 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:16,746 | ERROR | Error analyzing tiled_4_subplot_10_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:16,754 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:16,779 | INFO | [API CALL] Analyzing tiled_4_subplot_11_Unknown_Title
+2026-06-17 16:54:17,118 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:17,121 | INFO | Retrying request to /chat/completions in 0.491077 seconds
+2026-06-17 16:54:17,506 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:17,508 | ERROR | Error analyzing tiled_3_subplot_12_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:17,958 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:17,961 | INFO | Retrying request to /chat/completions in 0.906521 seconds
+2026-06-17 16:54:19,215 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:19,218 | ERROR | Error analyzing tiled_4_subplot_11_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:19,226 | ERROR | OCR failed: Numpy is not available
+2026-06-17 16:54:19,248 | INFO | [API CALL] Analyzing tiled_4_subplot_12_Unknown_Title
+2026-06-17 16:54:19,591 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:19,594 | INFO | Retrying request to /chat/completions in 0.432013 seconds
+2026-06-17 16:54:20,350 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:20,353 | INFO | Retrying request to /chat/completions in 0.873561 seconds
+2026-06-17 16:54:21,593 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 16:54:21,596 | ERROR | Error analyzing tiled_4_subplot_12_Unknown_Title: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 16:54:21,602 | INFO | Selecting top 20 plots...
+2026-06-17 16:54:22,209 | INFO | Analysis completed in 38.88 seconds
+2026-06-17 17:00:37,180 | INFO | Starting analysis
+2026-06-17 17:00:37,182 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 17:00:37,184 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 17:00:37,186 | INFO | Model: gpt-4o-mini
+2026-06-17 17:00:37,187 | INFO | Cache enabled: True
+2026-06-17 17:00:37,189 | INFO | Loading cache...
+2026-06-17 17:00:37,192 | INFO | Processing file: tiled_3.png
+2026-06-17 17:00:37,197 | INFO | Processing file: tiled_4.png
+2026-06-17 17:00:37,878 | INFO | [API CALL] Analyzing tiled_4_subplot_1_BASEMENTAREA_MODE LVINGAREA_MODE ~shsntaaga Hocs
+2026-06-17 17:00:38,065 | INFO | [API CALL] Analyzing tiled_3_subplot_1_PLSENENTAREE AVG_ LANDAREA_AVG MA[LRI-
+2026-06-17 17:00:40,222 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:40,224 | INFO | Retrying request to /chat/completions in 0.486647 seconds
+2026-06-17 17:00:40,287 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:40,290 | INFO | Retrying request to /chat/completions in 0.388470 seconds
+2026-06-17 17:00:41,027 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:41,029 | INFO | Retrying request to /chat/completions in 0.936297 seconds
+2026-06-17 17:00:41,159 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:41,163 | INFO | Retrying request to /chat/completions in 0.837894 seconds
+2026-06-17 17:00:42,286 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:42,290 | ERROR | Error analyzing tiled_3_subplot_1_PLSENENTAREE AVG_ LANDAREA_AVG MA[LRI-: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:42,519 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:42,521 | ERROR | Error analyzing tiled_4_subplot_1_BASEMENTAREA_MODE LVINGAREA_MODE ~shsntaaga Hocs: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:42,985 | INFO | [API CALL] Analyzing tiled_3_subplot_2_BASEMENTAREA_AVG_ LANDAREA_MODE MLAaAIA Hapi anhGNT
+2026-06-17 17:00:43,264 | INFO | [API CALL] Analyzing tiled_4_subplot_2_CoMMONAREA EVG LIVINGAREA_KODE KEAAG [ COUU elaAn
+2026-06-17 17:00:43,310 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:43,312 | INFO | Retrying request to /chat/completions in 0.487393 seconds
+2026-06-17 17:00:43,578 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:43,581 | INFO | Retrying request to /chat/completions in 0.436377 seconds
+2026-06-17 17:00:44,402 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:44,405 | INFO | Retrying request to /chat/completions in 0.944155 seconds
+2026-06-17 17:00:44,573 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:44,576 | INFO | Retrying request to /chat/completions in 0.980468 seconds
+2026-06-17 17:00:45,695 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:45,698 | ERROR | Error analyzing tiled_3_subplot_2_BASEMENTAREA_AVG_ LANDAREA_MODE MLAaAIA Hapi anhGNT: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:45,887 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:45,889 | ERROR | Error analyzing tiled_4_subplot_2_CoMMONAREA EVG LIVINGAREA_KODE KEAAG [ COUU elaAn: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:46,257 | INFO | [API CALL] Analyzing tiled_3_subplot_3_BASEMENTAREA_AVG_ LIVINGAREA_MODE t FARM [ LAStufhTARTA
+2026-06-17 17:00:46,557 | INFO | [API CALL] Analyzing tiled_4_subplot_3_EXT_SOURCE_1_vs AMT_ANNUMY KurEI AlminuITT "t WARM [
+2026-06-17 17:00:46,583 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:46,585 | INFO | Retrying request to /chat/completions in 0.426438 seconds
+2026-06-17 17:00:46,873 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:46,876 | INFO | Retrying request to /chat/completions in 0.414398 seconds
+2026-06-17 17:00:47,337 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:47,340 | INFO | Retrying request to /chat/completions in 0.967179 seconds
+2026-06-17 17:00:47,630 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:47,632 | INFO | Retrying request to /chat/completions in 0.824581 seconds
+2026-06-17 17:00:48,623 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:48,626 | ERROR | Error analyzing tiled_3_subplot_3_BASEMENTAREA_AVG_ LIVINGAREA_MODE t FARM [ LAStufhTARTA: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:48,778 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:48,781 | ERROR | Error analyzing tiled_4_subplot_3_EXT_SOURCE_1_vs AMT_ANNUMY KurEI AlminuITT "t WARM [: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:49,777 | INFO | [API CALL] Analyzing tiled_3_subplot_4_BASEMENTAREA_MODE AMT_ANNUITY HA"HATAAA 4oi L4t KmiTT CARM [ UFhTARFA
+2026-06-17 17:00:49,966 | INFO | [API CALL] Analyzing tiled_4_subplot_4_EXT_SOURCE APARTMENTS_AVG RolCT LihTMIMT {nbmdt MLRh DT Meot 1 1">
+2026-06-17 17:00:50,335 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:50,337 | INFO | Retrying request to /chat/completions in 0.413337 seconds
+2026-06-17 17:00:50,739 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:50,742 | INFO | Retrying request to /chat/completions in 0.404901 seconds
+2026-06-17 17:00:51,115 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:51,118 | INFO | Retrying request to /chat/completions in 0.856109 seconds
+2026-06-17 17:00:51,618 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:51,621 | INFO | Retrying request to /chat/completions in 0.932014 seconds
+2026-06-17 17:00:52,343 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:52,347 | ERROR | Error analyzing tiled_4_subplot_4_EXT_SOURCE APARTMENTS_AVG RolCT LihTMIMT {nbmdt MLRh DT Meot 1 1">: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:52,869 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:52,871 | ERROR | Error analyzing tiled_3_subplot_4_BASEMENTAREA_MODE AMT_ANNUITY HA"HATAAA 4oi L4t KmiTT CARM [ UFhTARFA: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:52,911 | INFO | [API CALL] Analyzing tiled_4_subplot_5_EXT_SOURCE_l_"s_ APARTMENTS_MODE AfHm AHTUU Uml
+2026-06-17 17:00:53,269 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:53,271 | INFO | Retrying request to /chat/completions in 0.388026 seconds
+2026-06-17 17:00:53,332 | INFO | [API CALL] Analyzing tiled_3_subplot_5_BASEMENTAREX_MODE_ APARTMENTS_AVG KRm MsthsntXaEA HoCS
+2026-06-17 17:00:53,645 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:53,648 | INFO | Retrying request to /chat/completions in 0.432709 seconds
+2026-06-17 17:00:54,011 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:54,013 | INFO | Retrying request to /chat/completions in 0.995413 seconds
+2026-06-17 17:00:54,413 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:54,416 | INFO | Retrying request to /chat/completions in 0.872532 seconds
+2026-06-17 17:00:55,358 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:55,360 | ERROR | Error analyzing tiled_4_subplot_5_EXT_SOURCE_l_"s_ APARTMENTS_MODE AfHm AHTUU Uml: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:55,670 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:55,672 | ERROR | Error analyzing tiled_3_subplot_5_BASEMENTAREX_MODE_ APARTMENTS_AVG KRm MsthsntXaEA HoCS: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:56,009 | INFO | [API CALL] Analyzing tiled_3_subplot_6_BASEMENTAREX_MODE_ APARTMENTS_MODE
+2026-06-17 17:00:56,230 | INFO | [API CALL] Analyzing tiled_4_subplot_6_EXT_SOURCE BASEMENTAREA_AVG 4t MnHAAIC reloraey lahgu
+2026-06-17 17:00:56,348 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:56,350 | INFO | Retrying request to /chat/completions in 0.385430 seconds
+2026-06-17 17:00:56,574 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:56,577 | INFO | Retrying request to /chat/completions in 0.473502 seconds
+2026-06-17 17:00:57,083 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:57,087 | INFO | Retrying request to /chat/completions in 0.904776 seconds
+2026-06-17 17:00:57,379 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:57,381 | INFO | Retrying request to /chat/completions in 0.934807 seconds
+2026-06-17 17:00:58,341 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:58,345 | ERROR | Error analyzing tiled_3_subplot_6_BASEMENTAREX_MODE_ APARTMENTS_MODE: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:58,646 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:58,648 | ERROR | Error analyzing tiled_4_subplot_6_EXT_SOURCE BASEMENTAREA_AVG 4t MnHAAIC reloraey lahgu: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:00:58,780 | INFO | [API CALL] Analyzing tiled_3_subplot_7_BASEMENTAREA_MODE_ BASEMENTAREA_AVG Jey IahGut
+2026-06-17 17:00:59,080 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:59,081 | INFO | Retrying request to /chat/completions in 0.492467 seconds
+2026-06-17 17:00:59,292 | INFO | [API CALL] Analyzing tiled_4_subplot_7_EXT_SOURCE_l_"s_ BASEMENTAREA_MODE aEI e MASENI Ntari ^_Hodt rclnteaey chG
+2026-06-17 17:00:59,635 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:59,638 | INFO | Retrying request to /chat/completions in 0.476795 seconds
+2026-06-17 17:00:59,857 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:00:59,861 | INFO | Retrying request to /chat/completions in 0.840192 seconds
+2026-06-17 17:01:00,456 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:00,459 | INFO | Retrying request to /chat/completions in 0.965721 seconds
+2026-06-17 17:01:00,989 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:00,992 | ERROR | Error analyzing tiled_3_subplot_7_BASEMENTAREA_MODE_ BASEMENTAREA_AVG Jey IahGut: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:01,610 | INFO | [API CALL] Analyzing tiled_3_subplot_8_BASEMENTAREA_MODE_ COMMONAREA_AVG Voni coxvanarh "ey lahGu
+2026-06-17 17:01:01,756 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:01,758 | ERROR | Error analyzing tiled_4_subplot_7_EXT_SOURCE_l_"s_ BASEMENTAREA_MODE aEI e MASENI Ntari ^_Hodt rclnteaey chG: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:01,945 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:01,947 | INFO | Retrying request to /chat/completions in 0.375186 seconds
+2026-06-17 17:01:02,195 | INFO | [API CALL] Analyzing tiled_4_subplot_8_EXT_SOURCE COMMONAREA_AVG 7cokpoisri WmhGi
+2026-06-17 17:01:02,624 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:02,627 | INFO | Retrying request to /chat/completions in 0.799420 seconds
+2026-06-17 17:01:03,022 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:03,025 | INFO | Retrying request to /chat/completions in 0.450862 seconds
+2026-06-17 17:01:03,732 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:03,735 | ERROR | Error analyzing tiled_3_subplot_8_BASEMENTAREA_MODE_ COMMONAREA_AVG Voni coxvanarh "ey lahGu: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:03,783 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:03,787 | INFO | Retrying request to /chat/completions in 0.833012 seconds
+2026-06-17 17:01:04,371 | INFO | [API CALL] Analyzing tiled_3_subplot_9_BASEMENTAREA_MODE EXT_SOURCE_2  #URI anhGNT DLeFLTNAARA Ln
+2026-06-17 17:01:04,709 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:04,711 | INFO | Retrying request to /chat/completions in 0.469218 seconds
+2026-06-17 17:01:04,930 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:04,931 | ERROR | Error analyzing tiled_4_subplot_8_EXT_SOURCE COMMONAREA_AVG 7cokpoisri WmhGi: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:05,467 | INFO | [API CALL] Analyzing tiled_4_subplot_9_EXT_SOURCE EXT_SOURCE Cal|a "UkFI . DAEI [
+2026-06-17 17:01:05,508 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:05,509 | INFO | Retrying request to /chat/completions in 0.775998 seconds
+2026-06-17 17:01:05,801 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:05,804 | INFO | Retrying request to /chat/completions in 0.429772 seconds
+2026-06-17 17:01:06,599 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:06,602 | INFO | Retrying request to /chat/completions in 0.917248 seconds
+2026-06-17 17:01:06,647 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:06,650 | ERROR | Error analyzing tiled_3_subplot_9_BASEMENTAREA_MODE EXT_SOURCE_2  #URI anhGNT DLeFLTNAARA Ln: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:07,238 | INFO | [API CALL] Analyzing tiled_3_subplot_10_BASEMENTAREA_MODE EXT_SOURCE ~Pani DGLINAIRA Lng[
+2026-06-17 17:01:07,580 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:07,582 | INFO | Retrying request to /chat/completions in 0.403381 seconds
+2026-06-17 17:01:07,859 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:07,862 | ERROR | Error analyzing tiled_4_subplot_9_EXT_SOURCE EXT_SOURCE Cal|a "UkFI . DAEI [: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:08,310 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:08,313 | INFO | Retrying request to /chat/completions in 0.892701 seconds
+2026-06-17 17:01:08,652 | INFO | [API CALL] Analyzing tiled_4_subplot_10_EXT_SOURCE EXT_SOURCE FM 'AEI ]# 'URFI 37 andit DALEI [
+2026-06-17 17:01:09,051 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:09,054 | INFO | Retrying request to /chat/completions in 0.466089 seconds
+2026-06-17 17:01:09,552 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:09,556 | ERROR | Error analyzing tiled_3_subplot_10_BASEMENTAREA_MODE EXT_SOURCE ~Pani DGLINAIRA Lng[: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:09,928 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:09,931 | INFO | Retrying request to /chat/completions in 0.996794 seconds
+2026-06-17 17:01:10,372 | INFO | [API CALL] Analyzing tiled_3_subplot_11_BASEMENTAREA_MODE LENDAREE AVG ~papi EXIAHGII DLeFLTNAARA Ln
+2026-06-17 17:01:10,723 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:10,724 | INFO | Retrying request to /chat/completions in 0.433490 seconds
+2026-06-17 17:01:11,351 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:11,354 | ERROR | Error analyzing tiled_4_subplot_10_EXT_SOURCE EXT_SOURCE FM 'AEI ]# 'URFI 37 andit DALEI [: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:11,478 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:11,480 | INFO | Retrying request to /chat/completions in 0.889609 seconds
+2026-06-17 17:01:11,922 | INFO | [API CALL] Analyzing tiled_4_subplot_11_EXT_SOURCE_1_vs LANDAREA_AVG MA[ARA DT RCuFLT E
+2026-06-17 17:01:12,279 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:12,282 | INFO | Retrying request to /chat/completions in 0.441676 seconds
+2026-06-17 17:01:12,728 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:12,731 | ERROR | Error analyzing tiled_3_subplot_11_BASEMENTAREA_MODE LENDAREE AVG ~papi EXIAHGII DLeFLTNAARA Ln: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:13,057 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:13,059 | INFO | Retrying request to /chat/completions in 0.955126 seconds
+2026-06-17 17:01:13,568 | INFO | [API CALL] Analyzing tiled_3_subplot_12_BASEMENTAREA_MODE LENDAREE MODE MYcAIC Kapi HGAI DGLINAIRA Lng[
+2026-06-17 17:01:13,907 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:13,909 | INFO | Retrying request to /chat/completions in 0.437658 seconds
+2026-06-17 17:01:14,376 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:14,380 | ERROR | Error analyzing tiled_4_subplot_11_EXT_SOURCE_1_vs LANDAREA_AVG MA[ARA DT RCuFLT E: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:14,661 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:14,662 | INFO | Retrying request to /chat/completions in 0.910483 seconds
+2026-06-17 17:01:15,027 | INFO | [API CALL] Analyzing tiled_4_subplot_12_EXT_SOURCE_1 LANDAREA_HODE MAYCAIC Kapi MT GeToT ]
+2026-06-17 17:01:15,387 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:15,390 | INFO | Retrying request to /chat/completions in 0.471473 seconds
+2026-06-17 17:01:15,905 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:15,908 | ERROR | Error analyzing tiled_3_subplot_12_BASEMENTAREA_MODE LENDAREE MODE MYcAIC Kapi HGAI DGLINAIRA Lng[: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:16,200 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:16,203 | INFO | Retrying request to /chat/completions in 0.972977 seconds
+2026-06-17 17:01:17,501 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:01:17,504 | ERROR | Error analyzing tiled_4_subplot_12_EXT_SOURCE_1 LANDAREA_HODE MAYCAIC Kapi MT GeToT ]: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:01:17,508 | INFO | Selecting top 20 plots...
+2026-06-17 17:05:47,234 | INFO | Starting analysis
+2026-06-17 17:05:47,236 | INFO | Input folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\interactions\scatter_tiled
+2026-06-17 17:05:47,237 | INFO | Output folder: C:\Users\ekash\OneDrive\001 EKASHUTIN\SkillFactory\_Diploma_Project\data\stage_outputs\stage5_multivariate\scatter_analysis
+2026-06-17 17:05:47,239 | INFO | Model: gpt-4o-mini
+2026-06-17 17:05:47,240 | INFO | Cache enabled: True
+2026-06-17 17:05:47,241 | INFO | Loading cache...
+2026-06-17 17:05:47,244 | INFO | Processing file: tiled_3.png
+2026-06-17 17:05:47,248 | INFO | Processing file: tiled_4.png
+2026-06-17 17:05:47,910 | INFO | [API CALL] Analyzing tiled_4_subplot_1_BASEMENTAREA_MODE LVINGAREA_MODE ~shsntaaga Hocs
+2026-06-17 17:05:48,092 | INFO | [API CALL] Analyzing tiled_3_subplot_1_PLSENENTAREE AVG_ LANDAREA_AVG MA[LRI-
+2026-06-17 17:05:50,141 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:50,144 | INFO | Retrying request to /chat/completions in 0.378959 seconds
+2026-06-17 17:05:50,331 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:50,335 | INFO | Retrying request to /chat/completions in 0.389805 seconds
+2026-06-17 17:05:50,846 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:50,849 | INFO | Retrying request to /chat/completions in 0.907464 seconds
+2026-06-17 17:05:51,046 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:51,049 | INFO | Retrying request to /chat/completions in 0.891973 seconds
+2026-06-17 17:05:52,263 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:52,267 | ERROR | Error analyzing tiled_3_subplot_1_PLSENENTAREE AVG_ LANDAREA_AVG MA[LRI-: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:05:52,458 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:52,461 | ERROR | Error analyzing tiled_4_subplot_1_BASEMENTAREA_MODE LVINGAREA_MODE ~shsntaaga Hocs: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:05:53,020 | INFO | [API CALL] Analyzing tiled_3_subplot_2_BASEMENTAREA_AVG_ LANDAREA_MODE MLAaAIA Hapi anhGNT
+2026-06-17 17:05:53,263 | INFO | [API CALL] Analyzing tiled_4_subplot_2_CoMMONAREA EVG LIVINGAREA_KODE KEAAG [ COUU elaAn
+2026-06-17 17:05:53,580 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:53,582 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:53,584 | INFO | Retrying request to /chat/completions in 0.475382 seconds
+2026-06-17 17:05:53,589 | INFO | Retrying request to /chat/completions in 0.488518 seconds
+2026-06-17 17:05:54,414 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:54,417 | INFO | Retrying request to /chat/completions in 0.922192 seconds
+2026-06-17 17:05:54,570 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:54,574 | INFO | Retrying request to /chat/completions in 0.752343 seconds
+2026-06-17 17:05:55,709 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:55,714 | ERROR | Error analyzing tiled_3_subplot_2_BASEMENTAREA_AVG_ LANDAREA_MODE MLAaAIA Hapi anhGNT: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:05:55,848 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:55,851 | ERROR | Error analyzing tiled_4_subplot_2_CoMMONAREA EVG LIVINGAREA_KODE KEAAG [ COUU elaAn: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:05:56,361 | INFO | [API CALL] Analyzing tiled_3_subplot_3_BASEMENTAREA_AVG_ LIVINGAREA_MODE t FARM [ LAStufhTARTA
+2026-06-17 17:05:56,620 | INFO | [API CALL] Analyzing tiled_4_subplot_3_EXT_SOURCE_1_vs AMT_ANNUMY KurEI AlminuITT "t WARM [
+2026-06-17 17:05:56,882 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:56,885 | INFO | Retrying request to /chat/completions in 0.471108 seconds
+2026-06-17 17:05:56,927 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:56,929 | INFO | Retrying request to /chat/completions in 0.485743 seconds
+2026-06-17 17:05:58,820 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:58,824 | INFO | Retrying request to /chat/completions in 0.974202 seconds
+2026-06-17 17:05:59,481 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:05:59,485 | INFO | Retrying request to /chat/completions in 0.770398 seconds
+2026-06-17 17:06:00,344 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:00,347 | ERROR | Error analyzing tiled_4_subplot_3_EXT_SOURCE_1_vs AMT_ANNUMY KurEI AlminuITT "t WARM [: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:00,738 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:00,741 | ERROR | Error analyzing tiled_3_subplot_3_BASEMENTAREA_AVG_ LIVINGAREA_MODE t FARM [ LAStufhTARTA: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:01,416 | INFO | [API CALL] Analyzing tiled_4_subplot_4_EXT_SOURCE APARTMENTS_AVG RolCT LihTMIMT {nbmdt MLRh DT Meot 1 1">
+2026-06-17 17:06:01,738 | INFO | [API CALL] Analyzing tiled_3_subplot_4_BASEMENTAREA_MODE AMT_ANNUITY HA"HATAAA 4oi L4t KmiTT CARM [ UFhTARFA
+2026-06-17 17:06:01,960 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:02,166 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:02,168 | INFO | Retrying request to /chat/completions in 0.493424 seconds
+2026-06-17 17:06:02,170 | INFO | Retrying request to /chat/completions in 0.458573 seconds
+2026-06-17 17:06:02,953 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:02,956 | INFO | Retrying request to /chat/completions in 0.856850 seconds
+2026-06-17 17:06:03,034 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:03,036 | INFO | Retrying request to /chat/completions in 0.820466 seconds
+2026-06-17 17:06:04,123 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:04,127 | ERROR | Error analyzing tiled_3_subplot_4_BASEMENTAREA_MODE AMT_ANNUITY HA"HATAAA 4oi L4t KmiTT CARM [ UFhTARFA: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:04,587 | INFO | [API CALL] Analyzing tiled_3_subplot_5_BASEMENTAREX_MODE_ APARTMENTS_AVG KRm MsthsntXaEA HoCS
+2026-06-17 17:06:04,988 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:04,992 | ERROR | Error analyzing tiled_4_subplot_4_EXT_SOURCE APARTMENTS_AVG RolCT LihTMIMT {nbmdt MLRh DT Meot 1 1">: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:05,127 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:05,129 | INFO | Retrying request to /chat/completions in 0.483676 seconds
+2026-06-17 17:06:05,532 | INFO | [API CALL] Analyzing tiled_4_subplot_5_EXT_SOURCE_l_"s_ APARTMENTS_MODE AfHm AHTUU Uml
+2026-06-17 17:06:06,097 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:06,100 | INFO | Retrying request to /chat/completions in 0.474860 seconds
+2026-06-17 17:06:06,517 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:06,519 | INFO | Retrying request to /chat/completions in 0.806812 seconds
+2026-06-17 17:06:07,099 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:07,102 | INFO | Retrying request to /chat/completions in 0.824725 seconds
+2026-06-17 17:06:07,843 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:07,846 | ERROR | Error analyzing tiled_3_subplot_5_BASEMENTAREX_MODE_ APARTMENTS_AVG KRm MsthsntXaEA HoCS: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:08,120 | INFO | [API CALL] Analyzing tiled_3_subplot_6_BASEMENTAREX_MODE_ APARTMENTS_MODE
+2026-06-17 17:06:08,434 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:08,436 | INFO | Retrying request to /chat/completions in 0.407943 seconds
+2026-06-17 17:06:08,459 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:08,461 | ERROR | Error analyzing tiled_4_subplot_5_EXT_SOURCE_l_"s_ APARTMENTS_MODE AfHm AHTUU Uml: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:09,052 | INFO | [API CALL] Analyzing tiled_4_subplot_6_EXT_SOURCE BASEMENTAREA_AVG 4t MnHAAIC reloraey lahgu
+2026-06-17 17:06:09,359 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:09,362 | INFO | Retrying request to /chat/completions in 0.466682 seconds
+2026-06-17 17:06:09,367 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:09,369 | INFO | Retrying request to /chat/completions in 0.796312 seconds
+2026-06-17 17:06:10,371 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:10,375 | INFO | Retrying request to /chat/completions in 0.856392 seconds
+2026-06-17 17:06:10,507 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:10,509 | ERROR | Error analyzing tiled_3_subplot_6_BASEMENTAREX_MODE_ APARTMENTS_MODE: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:10,906 | INFO | [API CALL] Analyzing tiled_3_subplot_7_BASEMENTAREA_MODE_ BASEMENTAREA_AVG Jey IahGut
+2026-06-17 17:06:11,211 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:11,212 | INFO | Retrying request to /chat/completions in 0.460806 seconds
+2026-06-17 17:06:11,735 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:11,739 | ERROR | Error analyzing tiled_4_subplot_6_EXT_SOURCE BASEMENTAREA_AVG 4t MnHAAIC reloraey lahgu: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:11,970 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:11,973 | INFO | Retrying request to /chat/completions in 0.799248 seconds
+2026-06-17 17:06:12,377 | INFO | [API CALL] Analyzing tiled_4_subplot_7_EXT_SOURCE_l_"s_ BASEMENTAREA_MODE aEI e MASENI Ntari ^_Hodt rclnteaey chG
+2026-06-17 17:06:12,869 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:12,872 | INFO | Retrying request to /chat/completions in 0.427323 seconds
+2026-06-17 17:06:13,082 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:13,085 | ERROR | Error analyzing tiled_3_subplot_7_BASEMENTAREA_MODE_ BASEMENTAREA_AVG Jey IahGut: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:13,731 | INFO | [API CALL] Analyzing tiled_3_subplot_8_BASEMENTAREA_MODE_ COMMONAREA_AVG Voni coxvanarh "ey lahGu
+2026-06-17 17:06:13,782 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:13,784 | INFO | Retrying request to /chat/completions in 0.816770 seconds
+2026-06-17 17:06:14,019 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:14,021 | INFO | Retrying request to /chat/completions in 0.392201 seconds
+2026-06-17 17:06:14,925 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:14,927 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:14,929 | INFO | Retrying request to /chat/completions in 0.916123 seconds
+2026-06-17 17:06:14,933 | ERROR | Error analyzing tiled_4_subplot_7_EXT_SOURCE_l_"s_ BASEMENTAREA_MODE aEI e MASENI Ntari ^_Hodt rclnteaey chG: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:15,397 | INFO | [API CALL] Analyzing tiled_4_subplot_8_EXT_SOURCE COMMONAREA_AVG 7cokpoisri WmhGi
+2026-06-17 17:06:15,895 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:15,898 | INFO | Retrying request to /chat/completions in 0.401756 seconds
+2026-06-17 17:06:16,134 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:16,138 | ERROR | Error analyzing tiled_3_subplot_8_BASEMENTAREA_MODE_ COMMONAREA_AVG Voni coxvanarh "ey lahGu: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:16,801 | INFO | [API CALL] Analyzing tiled_3_subplot_9_BASEMENTAREA_MODE EXT_SOURCE_2  #URI anhGNT DLeFLTNAARA Ln
+2026-06-17 17:06:16,810 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:16,811 | INFO | Retrying request to /chat/completions in 0.779138 seconds
+2026-06-17 17:06:17,283 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:17,285 | INFO | Retrying request to /chat/completions in 0.421421 seconds
+2026-06-17 17:06:18,039 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:18,041 | INFO | Retrying request to /chat/completions in 0.970405 seconds
+2026-06-17 17:06:18,063 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:18,066 | ERROR | Error analyzing tiled_4_subplot_8_EXT_SOURCE COMMONAREA_AVG 7cokpoisri WmhGi: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:18,594 | INFO | [API CALL] Analyzing tiled_4_subplot_9_EXT_SOURCE EXT_SOURCE Cal|a "UkFI . DAEI [
+2026-06-17 17:06:19,111 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:19,115 | INFO | Retrying request to /chat/completions in 0.443653 seconds
+2026-06-17 17:06:19,327 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:19,332 | ERROR | Error analyzing tiled_3_subplot_9_BASEMENTAREA_MODE EXT_SOURCE_2  #URI anhGNT DLeFLTNAARA Ln: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:19,884 | INFO | [API CALL] Analyzing tiled_3_subplot_10_BASEMENTAREA_MODE EXT_SOURCE ~Pani DGLINAIRA Lng[
+2026-06-17 17:06:20,206 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:20,208 | INFO | Retrying request to /chat/completions in 0.498354 seconds
+2026-06-17 17:06:20,259 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:20,262 | INFO | Retrying request to /chat/completions in 0.975274 seconds
+2026-06-17 17:06:21,424 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:21,427 | INFO | Retrying request to /chat/completions in 0.760039 seconds
+2026-06-17 17:06:21,607 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:21,611 | ERROR | Error analyzing tiled_4_subplot_9_EXT_SOURCE EXT_SOURCE Cal|a "UkFI . DAEI [: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:22,384 | INFO | [API CALL] Analyzing tiled_4_subplot_10_EXT_SOURCE EXT_SOURCE FM 'AEI ]# 'URFI 37 andit DALEI [
+2026-06-17 17:06:22,724 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:22,727 | INFO | Retrying request to /chat/completions in 0.425454 seconds
+2026-06-17 17:06:22,911 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:22,914 | ERROR | Error analyzing tiled_3_subplot_10_BASEMENTAREA_MODE EXT_SOURCE ~Pani DGLINAIRA Lng[: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:23,601 | INFO | [API CALL] Analyzing tiled_3_subplot_11_BASEMENTAREA_MODE LENDAREE AVG ~papi EXIAHGII DLeFLTNAARA Ln
+2026-06-17 17:06:23,857 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:23,860 | INFO | Retrying request to /chat/completions in 0.912040 seconds
+2026-06-17 17:06:23,966 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:23,968 | INFO | Retrying request to /chat/completions in 0.462603 seconds
+2026-06-17 17:06:24,955 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:24,957 | INFO | Retrying request to /chat/completions in 0.841791 seconds
+2026-06-17 17:06:25,128 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:25,132 | ERROR | Error analyzing tiled_4_subplot_10_EXT_SOURCE EXT_SOURCE FM 'AEI ]# 'URFI 37 andit DALEI [: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:25,637 | INFO | [API CALL] Analyzing tiled_4_subplot_11_EXT_SOURCE_1_vs LANDAREA_AVG MA[ARA DT RCuFLT E
+2026-06-17 17:06:26,164 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:26,166 | ERROR | Error analyzing tiled_3_subplot_11_BASEMENTAREA_MODE LENDAREE AVG ~papi EXIAHGII DLeFLTNAARA Ln: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:26,324 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:26,327 | INFO | Retrying request to /chat/completions in 0.434993 seconds
+2026-06-17 17:06:26,919 | INFO | [API CALL] Analyzing tiled_3_subplot_12_BASEMENTAREA_MODE LENDAREE MODE MYcAIC Kapi HGAI DGLINAIRA Lng[
+2026-06-17 17:06:27,234 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:27,236 | INFO | Retrying request to /chat/completions in 0.498846 seconds
+2026-06-17 17:06:27,267 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:27,270 | INFO | Retrying request to /chat/completions in 0.998261 seconds
+2026-06-17 17:06:28,219 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:28,221 | INFO | Retrying request to /chat/completions in 0.989042 seconds
+2026-06-17 17:06:28,763 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:28,767 | ERROR | Error analyzing tiled_4_subplot_11_EXT_SOURCE_1_vs LANDAREA_AVG MA[ARA DT RCuFLT E: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:29,402 | INFO | [API CALL] Analyzing tiled_4_subplot_12_EXT_SOURCE_1 LANDAREA_HODE MAYCAIC Kapi MT GeToT ]
+2026-06-17 17:06:29,794 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:29,797 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:29,797 | INFO | Retrying request to /chat/completions in 0.375602 seconds
+2026-06-17 17:06:29,803 | ERROR | Error analyzing tiled_3_subplot_12_BASEMENTAREA_MODE LENDAREE MODE MYcAIC Kapi HGAI DGLINAIRA Lng[: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:30,904 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:30,908 | INFO | Retrying request to /chat/completions in 0.919178 seconds
+2026-06-17 17:06:32,552 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-17 17:06:32,555 | ERROR | Error analyzing tiled_4_subplot_12_EXT_SOURCE_1 LANDAREA_HODE MAYCAIC Kapi MT GeToT ]: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-17 17:06:32,560 | INFO | Selecting top 20 plots...
+2026-06-17 17:06:33,145 | INFO | Analysis completed in 45.91 seconds
