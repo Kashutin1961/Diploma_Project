@@ -199,30 +199,24 @@
 - Jupyter Notebook  
 
 ---
-
-## Статус проекта
-Проект находится в активной разработке в рамках дипломной работы SkillFactory.
-
 ## Просмотр ноутбука
+Файл `diploma_project.ipynb` содержит большое количество визуализаций и выводов, из‑за чего его размер превышает лимиты GitHub для рендеринга.  
 
-GitHub не всегда может отобразить большие Jupyter Notebook файлы (как в данном проекте).  
-Чтобы посетители могли удобно просматривать ноутбук, доступны два надёжных варианта:
+GitHub не всегда может отобразить большой Jupyter Notebook файл как этот.  
 
-### NBViewer (рекомендуется)
-NBViewer корректно отображает даже очень большие ноутбуки.
-
-👉 [Открыть ноутбук в NBViewer](https://nbviewer.org/github/Kashutin1961/Diploma_Project/blob/main/diploma_project.ipynb)
+Посетитель может просматривать ноутбук используя приведенные ниже ссылки:
 
 ### Google Colab
-Позволяет не только просматривать, но и запускать ноутбук в браузере.
+Позволяет просматривать и запускать ноутбук в браузере.
+[Открыть ноутбук в Google Colab](https://colab.research.google.com/github/Kashutin1961/Diploma_Project/blob/main/diploma_project.ipynb)
 
-👉 [Открыть ноутбук в Google Colab](https://colab.research.google.com/github/Kashutin1961/Diploma_Project/blob/main/diploma_project.ipynb)
+### NBViewer
+Позволяет просматривать.
+[Открыть ноутбук в NBViewer](https://nbviewer.org/github/Kashutin1961/Diploma_Project/blob/main/diploma_project.ipynb)
 
 ---
 
-### Почему GitHub не отображает ноутбук?
-Файл `diploma_project.ipynb` содержит большое количество визуализаций и выводов, из‑за чего его размер превышает лимиты GitHub для рендеринга.  
-NBViewer и Colab лишены этих ограничений и подходят для публичного просмотра.
+
 
 
 
