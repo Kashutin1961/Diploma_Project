@@ -14,4 +14,13 @@ data/processed/*
 # Ignore system files
 .DS_Store
 Thumbs.db
+archive/
+data/
+models/
+*.log
+*.tmp
+*.cache
+__pycache__/
+.ipynb_checkpoints/
+.env
 

@@ -1,0 +1,46 @@
+data:
+  train_file: "application_train.csv"
+  target: "TARGET"
+
+preprocessing:
+  numeric_imputation: "median"
+  scaling: true
+
+models:
+  xgb_opt:
+    n_estimators: 500
+    max_depth: 6
+    learning_rate: 0.05
+
+  rf_opt:
+    n_estimators: 400
+    max_depth: 12
+
+  ridge_opt:
+    alpha: 1.0
+
+  lasso_opt:
+    alpha: 0.001
+
+  lr_opt:
+    fit_intercept: true
+
+  meta_model_v3:
+    num_leaves: 31
+    learning_rate: 0.05
+    n_estimators: 300
+
+inference:
+  feature_order:
+    - xgb_opt
+    - rf_opt
+    - lr_opt
+    - ridge_opt
+    - lasso_opt
+
+  ranges:
+    xgb_opt: [0.0, 1.0]
+    rf_opt: [0.0, 1.0]
+    lr_opt: [0.0, 1.0]
+    ridge_opt: [0.0, 1.0]
+    lasso_opt: [0.0, 1.0]
