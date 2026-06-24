@@ -6,231 +6,179 @@
         ".vscode",
         "__pycache__",
         "env",
-        "venv"
+        "venv",
+        "archive",
+        "data",
+        "models"
     ],
+
     "folders": {
-        "data_raw": "data/raw/",
-        "data_interim": "data/interim/",
-        "data_processed": "data/processed/",
-        "stage_outputs": "data/stage_outputs/",
-        "eda_dicts": "eda/dicts/",
-        "eda_plots": "eda/plots/",
         "src": "src/",
-        "src_pipelines": "src/pipelines/",
-        "notebooks": "notebooks/",
+        "src_deployment": "src/deployment/",
+        "src_features": "src/features/",
+        "src_models": "src/models/",
+        "src_utils": "src/utils/",
+
+        "scripts": "scripts/",
+        "configs": "configs/",
+        "maintenance": "maintenance/",
+
         "reports": "reports/",
         "reports_figures": "reports/figures/",
-        "presentation": "presentation/"
+        "reports_stage2": "reports/figures/stage2/",
+        "reports_stage3": "reports/figures/stage3/",
+        "reports_stage4": "reports/figures/stage4/",
+        "reports_stage5": "reports/figures/stage5/",
+        "reports_stage8": "reports/figures/stage8/",
+        "reports_stage10": "reports/figures/stage10/"
     },
+
     "stages": {
         "stage1": {
             "suffix": "_data",
-            "name": "Data Loading & Sampling",
-            "input": [
-                "raw CSV files"
-            ],
+            "name": "Data Loading",
+            "input": ["raw CSV files"],
             "input_path": "data/raw/",
-            "output": [
-                "loaded DataFrames"
-            ],
+            "output": ["loaded DataFrames"],
             "output_path": "data/stage_outputs/stage1_data/",
             "output_format": ".pkl",
-            "purpose": "Load full or sampled data",
-            "description": "Load CSVs, sample rows, store DataFrames",
-            "variants": [
-                "sample10",
-                "sample20",
-                "full"
-            ],
+            "purpose": "Load raw data",
+            "description": "Load CSVs into DataFrames",
+            "variants": ["full"],
             "active_variant": "full"
         },
+
         "stage2": {
             "suffix": "_eda",
-            "name": "Univariate EDA + Feature Screening",
-            "input": [
-                "stage1 DataFrames"
-            ],
+            "name": "Univariate EDA",
+            "input": ["stage1 DataFrames"],
             "input_path": "data/stage_outputs/stage1_data/",
-            "output": [
-                "EDA dicts",
-                "promising features",
-                "plots"
-            ],
+            "output": ["EDA dicts", "plots"],
             "output_path": "data/stage_outputs/stage2_eda/",
-            "output_format": [
-                ".pkl",
-                ".json",
-                ".png"
-            ],
-            "purpose": "Identify promising features",
-            "description": "Build EDA dicts, filter features, plot promising only",
-            "variants": [
-                "eda_v1",
-                "eda_v2"
-            ],
+            "output_format": [".pkl", ".json", ".png"],
+            "purpose": "Explore distributions",
+            "description": "Univariate EDA and feature screening",
+            "variants": ["eda_v1"],
             "active_variant": "eda_v1"
         },
+
         "stage3": {
             "suffix": "_baseline",
-            "name": "Baseline LightGBM",
-            "input": [
-                "promising features"
-            ],
+            "name": "Baseline Modeling",
+            "input": ["EDA features"],
             "input_path": "data/stage_outputs/stage2_eda/",
-            "output": [
-                "baseline model",
-                "feature importance"
-            ],
+            "output": ["baseline model", "feature importance"],
             "output_path": "data/stage_outputs/stage3_baseline/",
-            "output_format": [
-                ".pkl",
-                ".csv"
-            ],
-            "purpose": "Establish baseline & rank features",
-            "description": "Train LightGBM, extract top‑50",
-            "variants": [
-                "baseline_default",
-                "baseline_tuned"
-            ],
+            "output_format": [".pkl", ".csv"],
+            "purpose": "Establish baseline",
+            "description": "Train baseline LightGBM",
+            "variants": ["baseline_default"],
             "active_variant": "baseline_default"
         },
+
         "stage4": {
             "suffix": "_bivariate",
             "name": "Bivariate EDA",
-            "input": [
-                "top‑50 features"
-            ],
+            "input": ["top features"],
             "input_path": "data/stage_outputs/stage3_baseline/",
-            "output": [
-                "bivariate plots",
-                "MI scores"
-            ],
+            "output": ["bivariate plots", "MI scores"],
             "output_path": "data/stage_outputs/stage4_bivariate/",
-            "output_format": [
-                ".png",
-                ".csv"
-            ],
-            "purpose": "Understand TARGET relationships",
-            "description": "TARGET vs numeric/categorical",
-            "variants": [
-                "bivariate_v1"
-            ],
+            "output_format": [".png", ".csv"],
+            "purpose": "TARGET relationships",
+            "description": "Numeric & categorical bivariate analysis",
+            "variants": ["bivariate_v1"],
             "active_variant": "bivariate_v1"
         },
+
         "stage5": {
             "suffix": "_multivariate",
             "name": "Multivariate EDA",
-            "input": [
-                "top‑20 features"
-            ],
+            "input": ["top features"],
             "input_path": "data/stage_outputs/stage4_bivariate/",
-            "output": [
-                "interaction plots"
-            ],
+            "output": ["interaction plots"],
             "output_path": "data/stage_outputs/stage5_multivariate/",
-            "output_format": [
-                ".png",
-                ".csv"
-            ],
-            "purpose": "Understand feature interactions",
+            "output_format": [".png", ".csv"],
+            "purpose": "Feature interactions",
             "description": "SHAP interactions, PDP",
-            "variants": [
-                "multi_v1"
-            ],
+            "variants": ["multi_v1"],
             "active_variant": "multi_v1"
         },
+
         "stage6": {
             "suffix": "_features",
             "name": "Feature Engineering",
-            "input": [
-                "raw + secondary tables"
-            ],
+            "input": ["raw + secondary tables"],
             "input_path": "data/stage_outputs/stage1_data/",
-            "output": [
-                "engineered dataset"
-            ],
+            "output": ["engineered dataset"],
             "output_path": "data/stage_outputs/stage6_features/",
             "output_format": ".parquet",
             "purpose": "Create final dataset",
             "description": "Aggregations, encodings, ratios",
-            "variants": [
-                "fe_basic",
-                "fe_full"
-            ],
+            "variants": ["fe_full"],
             "active_variant": "fe_full"
         },
+
         "stage7": {
             "suffix": "_models",
             "name": "Advanced Modeling",
-            "input": [
-                "engineered dataset"
-            ],
+            "input": ["engineered dataset"],
             "input_path": "data/stage_outputs/stage6_features/",
-            "output": [
-                "final models",
-                "CV results"
-            ],
+            "output": ["models", "CV results"],
             "output_path": "data/stage_outputs/stage7_models/",
-            "output_format": [
-                ".pkl",
-                ".json"
-            ],
+            "output_format": [".pkl", ".json"],
             "purpose": "Build strong models",
             "description": "LGBM tuned, CatBoost, stacking",
-            "variants": [
-                "lgbm_v1",
-                "cat_v1",
-                "stack_v1"
-            ],
+            "variants": ["lgbm_v1", "stack_v1"],
             "active_variant": "lgbm_v1"
         },
+
         "stage8": {
+            "suffix": "_optimization",
+            "name": "Model Optimization",
+            "input": ["stage7 models"],
+            "input_path": "data/stage_outputs/stage7_models/",
+            "output": ["optimized models", "Optuna studies"],
+            "output_path": "data/stage_outputs/stage8_optimization/",
+            "output_format": [".pkl", ".json"],
+            "purpose": "Optimize ensemble",
+            "description": "Optuna tuning for meta‑model",
+            "variants": ["optuna_v1"],
+            "active_variant": "optuna_v1"
+        },
+
+        "stage9": {
             "suffix": "_interpretation",
             "name": "Interpretation",
-            "input": [
-                "final model + dataset"
-            ],
-            "input_path": "data/stage_outputs/stage7_models/",
-            "output": [
-                "SHAP plots",
-                "reports"
-            ],
-            "output_path": "data/stage_outputs/stage8_interpretation/",
-            "output_format": [
-                ".png",
-                ".csv"
-            ],
+            "input": ["optimized model + dataset"],
+            "input_path": "data/stage_outputs/stage8_optimization/",
+            "output": ["SHAP plots", "reports"],
+            "output_path": "data/stage_outputs/stage9_interpretation/",
+            "output_format": [".png", ".csv"],
             "purpose": "Explain model",
             "description": "SHAP, PDP, interactions",
-            "variants": [
-                "interp_v1"
-            ],
+            "variants": ["interp_v1"],
             "active_variant": "interp_v1"
         },
-        "stage9": {
+
+        "stage10": {
             "suffix": "_inference",
             "name": "Final Inference Pipeline",
             "input": [
                 "raw test data",
                 "FE pipeline",
-                "model"
+                "optimized model"
             ],
             "input_path": [
                 "data/raw/",
-                "stage6_features/",
-                "stage7_models/"
+                "data/stage_outputs/stage6_features/",
+                "data/stage_outputs/stage8_optimization/"
             ],
-            "output": [
-                "submission file"
-            ],
-            "output_path": "data/stage_outputs/stage9_submission/",
+            "output": ["submission file"],
+            "output_path": "data/stage_outputs/stage10_submission/",
             "output_format": ".csv",
             "purpose": "Produce predictions",
-            "description": "Apply FE → model → submission",
-            "variants": [
-                "sub_v1",
-                "sub_v2"
-            ],
+            "description": "Apply FE → optimized model → submission",
+            "variants": ["sub_v1"],
             "active_variant": "sub_v1"
         }
     }
