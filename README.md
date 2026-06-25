@@ -180,7 +180,8 @@ Diploma_Project/
 - исправление категориальных значений  
 - удаление невозможных значений  
 - обработка аномалий  
-- нормализация типов данных  
+- нормализация типов данных
+- проверочное использование Baseline LightGBM (minimal hyperparameters) 
 
 ### **Stage 4 — Бивариантный анализ**
 - тепловые карты корреляций  
@@ -201,17 +202,19 @@ Diploma_Project/
 - объединение в финальную таблицу  
 
 ### **Stage 7 — Базовые модели**
-- Logistic Regression  
-- Decision Tree  
-- baseline‑метрики  
+- Baseline LightGBM  
+- Tuned LightGBM (Optuna)  
+- XGBoost Model
+- Random Forest
+- Линейные модели (Logistic Regression, Ridge, Lasso)
+- Stacking Ensemble (финальная модель Stage 7) 
 
 ### **Stage 8 — Продвинутые модели**
-- LightGBM  
-- CatBoost  
-- XGBoost  
+- Lasso  
+- Logistic Regression  
+- Ridge  
 - Random Forest  
-- Optuna‑оптимизация  
-- Stacking  
+- XGBoost   
 
 ### **Stage 9 — Интерпретация**
 - SHAP summary  
