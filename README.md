@@ -109,7 +109,8 @@ Diploma_Project/
 ├── MIT License.md
 ├── project_structure_config.json
 └── stage10_inference.py
-│
+
+
 <img src="reports/figures/project_structure_diagram_color.svg" width="800">
 
 ---
